@@ -24,10 +24,14 @@ Neural Heist
 - [U-43 Trello Sprint Board - 2](https://trello.com/b/PlpaYQrY/2-sprint)
 - [U-43 Trello Sprint Board - 3](https://trello.com/b/V8sbhcHa/sprint-3)
 
-## Product Description
-aaa
+## Game Description
+Neural Heist, izometrik bakış açısıyla oynanan, bilim kurgu ve gerilim ögelerini
+birleştiren, hedef kişilerin zihinlerine sızarak bilgi çalmayı konu alan bir
+bulmaca/strateji oyunudur. Oyuncu, çeşitli mekanlarda hedef kişiyle ilgili ipuçlarını
+toplar, ortamı manipüle ederek zihne giriş koşullarını hazırlar ve nihayetinde zihinsel
+dünyada geçen soyut, tehditkâr bir ortamda bilgiyi ele geçirerek görevini tamamlar.
 
-## Product Features
+## Game Features
 -
 -
 -
