@@ -2,48 +2,48 @@
   <img src="images/image-1.png" width="600">
 </p>
 
+
 ## Team Name
 <img src="images/image-2.png" width="100">
 
 ## Team Members
-- ***xxxxx*** - Product Owner
+- ***Kaan Avdan*** - Product Owner
 - ***Ahsen Büşra Nur Güngör*** - Scrum Master
-- ***xxxxxx*** - Developer
-- ***xxxxxx*** - Developer
+- ***Eşref Bakar*** - 3D/2D Artist
+- ***Mustafa Toprak Sezgin*** - Developer
+- ***Ece Koçak*** - Developer
+
 
 
 ## Game Name
-xxx
+Neural Heist
+
 
 ## Product Backlog List
-- [U43 Unity Trello Sprint Board - 1](https://trello.com/b/Dkt6f6eS/1-sprint)
-- [U43 Unity Trello Sprint Board - 2](https://trello.com/b/PlpaYQrY/2-sprint)
-- [U43 Unity Trello Sprint Board - 3](https://trello.com/b/V8sbhcHa/sprint-3)
+- [U-43 Trello Sprint Board - 1](https://trello.com/b/Dkt6f6eS/1-sprint)
+- [U-43 Trello Sprint Board - 2](https://trello.com/b/PlpaYQrY/2-sprint)
+- [U-43 Trello Sprint Board - 3](https://trello.com/b/V8sbhcHa/sprint-3)
 
-## Game Description
-xxx
+## Product Description
+aaa
 
-
-
-## Game Features
-- 3D
-- Singleplayer
-- Story Driven Game
-- Adventure
-- Action RPG
-- Offline
+## Product Features
+-
+-
+-
+-
+-
+-
 
 ## Target Group
-- 7 +
-- Children: The game’s cute aesthetic, simple controls, and heartwarming story make it appealing to younger players.
-- Parents and Families: The non-violent, positive themes make it a suitable choice for family gaming sessions.
-- Casual Gamers: The easy-to-pick-up gameplay and charming characters attract those looking for a lighthearted and enjoyable experience.
+-
+-
+-
+-
 
 ## Links
-- [Download Game on itch.io](https://itch.io/)
-- [Watch Trailer on Youtube](https://www.youtube.com/)
-- [Game Design Document](https://docs.google.com/)
-- [Used Assets](https://docs.google.com/)
+- [Check Out Our Product]()
+- [Watch Trailer on Youtube](https://www.youtube.com/watch?v=LpNVf8sczqU)
 
 ---
 # **SPRINT 1**
@@ -51,13 +51,18 @@ xxx
    | ![Sprint 1](images/image-3.png) |
    |:---------------------------------:|
 
-- xxx
+- It has been decided that the score evaluation for the sprint will be 20.
+- Score completion logic: The backlog score that must be completed throughout the project is expected to be 50. The number of points to be completed for the first Sprint was determined as 20, and the target score was reached by obtaining 20 points.
 
 ### **Sprint 1 Notes**
-- xxx <br>
+- aaaa
+- aaaa <br>
 
   **To Do List:**
-- xxx
+- bbb
+- bbb
+- bbb
+- bbb
 
 ### **Sprint 1 Board**
    | ![Sprint Board 1](images/image-4.png) |
@@ -66,64 +71,62 @@ xxx
 
 ### **Daily Scrum**
 
-* xxx
+* Daily scrum was held via WhatsApp and Google Meet. Google Meet meeting notes can be found on Trello as cards in the "Meeting Logs" list.
 
-   | ![WP](images/image-5.png) |
+   | ![WhatsApp](images/image-5.png) |
    |:---------------------------------:|
-   | xxx           |
+   | Initially, communication was established via WhatsApp, and WhatsApp was preferred for daily communication                         |
 
-   | ![DC](images/image-6.png) |
+   | ![Google Meet](images/image-6.png) |
    |:---------------------------------:|
-   | xxx                         |
+   | Google Meet was preferred for planning and collaborative work.                         |
 
-   | ![Trello 1](images/image-7.png) |
+   | ![Trello](images/image-7.png) |
    |:---------------------------------:|
-   |xxx                        |
-
-   | ![Trello 1](images/image-8.png) |
-   |:---------------------------------:|
-   | xxx                       |
+   | Recordings of Google Meet meetings can be found on Trello as cards in the "Meeting Logs" list                         |
 
  
 ### **Development Progress**
-* xxx
-   | ![Basic Movements](images/image-9.gif) | ![Camera Controls](images/image-10.gif) |
+* aaa
+
+   | ![Dev Gif or Image](images/image-9.gif) | ![Dev Gif or Image](images/image-10.gif) |
    |:---------------------------------:|:-----------------------------------:|
-   | xxx                       | xxx                     |
+   | aaa                        | bbb                        |
 
-* xxx
+* bbb
 
-   | ![Eğimli Zemin Testleri](images/image-11.gif) | ![Saldırı ve Ölüm Mekaniği](images/image-12.gif) |
+   | ![Dev Gif or Image](images/image-11.gif) | ![Dev Gif or Image](images/image-12.gif) |
    |:---------------------------------:|:-----------------------------------:|
-   |xxx                       | xxx                        |
+   | aaa                        | bbb                         |
 
-* xxx
+* aaa
 
-   | ![Map Sketch](images/image-13.png) |
+   | ![Dev Gif or Image](images/image-13.png) |
    |:---------------------------------:|
-   | xxx                        |
+   | aaa                       |
 
-* xxx
+* aaa
 
-   | ![Terrain](images/image-14.png) |
+   | ![Dev Gif or Image](images/image-14.png) |
    |:---------------------------------:|
-   |xxx                        |
+   | aaa                        |
 
-* xxx
+* aaa
 
-   | ![Loading Scene](images/image-15.png) |
-   |:---------------------------------:|
-   | xxx                      |
+   | ![Dev Gif or Image](images/image-15.png) |
+   |:aaa                         |
 
 
  ### **Sprint Review**
-- xxx
+- At the end of Sprint 1, the team met and the Sprint was reviewed. The intended tasks have all been completed.
+Sprint Review participants:
 
 
 
 
  ### **Sprint Retrospective**
-- xxx
+- The score for Sprint 1 is 20.
+
 
 ---
 # **SPRINT 2**
@@ -131,13 +134,14 @@ xxx
    | ![Sprint 2](images/image-16.png) |
    |:---------------------------------:|
 
-- xxx
-  
+- It has been decided that the score evaluation for the sprint will be 15.
+- Score completion logic: The backlog score that must be completed throughout the project is expected to be 50. The number of points to be completed for the second Sprint was determined as 15, and the target score was reached by obtaining 15 points.
+
 ### **Sprint 2 Notes**
-- xxx <br>
+- At the beginning of the second sprint the team has discussed which tasks will be completed in the second sprint.<br>
 
   **To Do List:**
-- xxx
+- aaa
 
 ### **Sprint 2 Board**
    | ![Sprint Board 2](images/image-17.png) |
@@ -146,79 +150,76 @@ xxx
 
 ### **Daily Scrum**
 
-* xxx
-  
-   | ![WP1](images/image-18.png) |
-   |:---------------------------------:|
-   | WhatsApp meeting logs 1                        |
+* Daily scrum was held via WhatsApp and Google Meet. Google Meet meeting notes can be found on Trello as cards in the "Meeting Logs" list.
 
-   | ![WP2](images/image-19.png) |
+   | ![WhatsApp](images/image-18.png) |
    |:---------------------------------:|
-   | WhatsApp meeting logs 2                        |
+   | WhatsApp meeting logs                        |
 
-   | ![DC](images/image-20.png) |
+   | ![Google Meet](images/image-20.png) |
    |:---------------------------------:|
-   |xxx                 |
+   | Google Meet meeting logs                        |
 
-   | ![Trello 1](images/image-21.png) |
+   | ![Trello](images/image-21.png) |
    |:---------------------------------:|
    | Trello meeting logs                        |
 
  
 ### **Development Progress**
-* xxx
+* aaa
 
-   | ![Async Multi Scene](images/image-22.gif) | ![Occlusion Culling](images/image-23.gif) |
+   | ![Dev Gif or Image](images/image-22.gif) | ![Dev Gif or Image](images/image-23.gif) |
    |:---------------------------------:|:-----------------------------------:|
-   | xxx                    |xxx                   |
+   | aaa                      | bbb                       |
 
-* xxx
+* aaa
 
-   | ![map1](images/image-24.gif) | ![map2](images/image-25.gif) |
+   | ![Dev Gif or Image](images/image-24.gif) | ![Dev Gif or Image](images/image-25.gif) |
    |:---------------------------------:|:-----------------------------------:|
-   | xxx                     | xxx                    |
+   | aaa                       | bbb                      |
 
-* xxx
+* aaa
 
-   | ![minimap](images/image-26.png) |
+   | ![Dev Gif or Image](images/image-26.png) |
    |:---------------------------------:|
-   | xxx                        |
+   | aaa                        |
 
-* xxx
+* aaa
 
-   | ![anim](images/image-27.gif) |
+   | ![Dev Gif or Image](images/image-27.gif) |
    |:---------------------------------:|
-   | xxx                    |
+   | Dev Gif or Image                       |
 
-* xxx
+* aaa
 
-   | ![Bolt](images/image-28.png) |
+   | ![Dev Gif or Image](images/image-28.png) |
    |:---------------------------------:|
-   | xxx                      |
+   | aaa                       |
 
-   | ![Jolt](images/image-29.png) |
+   | ![Dev Gif or Image](images/image-29.png) |
    |:---------------------------------:|
-   | xxx                      |
+   | aaa                       |
 
-   | ![Nero](images/image-30.png) |
+   | ![Dev Gif or Image](images/image-30.png) |
    |:---------------------------------:|
-   | xxx                    |
+   | aaa                       |
 
-* xxx
+* aaa
 
-   | ![family](images/image-31.png) |
+   | ![Dev Gif or Image](images/image-31.png) |
    |:---------------------------------:|
-   | xxx                   |
+   | aaa                      |
 
 
  ### **Sprint Review**
-- xxx
+- At the end of Sprint 2, the team met to review the Sprint. The intended tasks have all been completed.
+Sprint Review participants:
 
 
 
 
  ### **Sprint Retrospective**
-- xxx
+- The score for Sprint 2 is 15.
 
 
 ---
@@ -227,14 +228,15 @@ xxx
    | ![Sprint3](images/image-32.png) |
    |:---------------------------------:|
 
-- xxx
+- It has been decided that the score evaluation for the sprint will be 15.
+- Score completion logic: The backlog score that must be completed throughout the project is expected to be 50. The number of points to be completed for the third and final Sprint was determined as 15, and the target score was reached by obtaining 15 points.
 
  
 ### **Sprint 3 Notes**
-- xxx
+- At the beginning of the third sprint the team has discussed which tasks will be completed in the third sprint.
 
   **To Do List:**
-- xxx
+- aaa
 
 
 ### **Sprint 3 Board**
@@ -244,17 +246,17 @@ xxx
 
 ### **Daily Scrum**
 
-* xxx
+* Daily scrum was held via WhatsApp and Google Meet. Google Meet meeting notes can be found on Trello as cards in the "Meeting Logs" list.
 
-   | ![WP1](images/image-34.png) |
+   | ![WhatsApp](images/image-34.png) |
    |:---------------------------------:|
    | WhatsApp meeting logs                        |
 
-   | ![DC](images/image-35.png) |
+   | ![Google Meet](images/image-35.png) |
    |:---------------------------------:|
-   | Discord meeting logs                        |
+   | Google Meet meeting logs                        |
 
-   | ![Trello 1](images/image-36.png) |
+   | ![Trello](images/image-36.png) |
    |:---------------------------------:|
    | Trello meeting logs                        |
 
@@ -262,25 +264,26 @@ xxx
 ### **Development Progress**
 
 
-* xxx
+* aaa
 
-   | ![Real Final Image](images/image-37.png) |
+   | ![Dev Gif or Image](images/image-37.png) |
    |:---------------------------------:|
-   | xxx                       |
+   | aaa                        |
 
 
-* xxx
-   | ![Platforms & Enemies](images/image-38.png) |
+* aaa
+   | ![Dev Gif or Image](images/image-38.png) |
    |:---------------------------------:|
-   | xxx              |
+   | aaa               |
+
  
 
-
-
  ### **Sprint Review**
-- xxx
+- At the end of Sprint 3, the entire development process were reviewed. The intended tasks have all been completed. The development is successfully completed.
+- Sprint Review participants:
+
 
 
 
  ### **Sprint Retrospective**
-- xxx
+- aaa
