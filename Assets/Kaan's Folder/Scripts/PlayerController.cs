@@ -7,8 +7,6 @@ public class PlayerController : MonoBehaviour
     [Header("Movement Variables")]
     public float horizontal;
     public float vertical;
-    
-
 
     void Start()
     {
