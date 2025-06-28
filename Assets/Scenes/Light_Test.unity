@@ -239,7 +239,7 @@ GameObject:
   - component: {fileID: 139295426}
   - component: {fileID: 139295425}
   - component: {fileID: 139295424}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Cube (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -466,7 +466,7 @@ GameObject:
   m_Component:
   - component: {fileID: 247890837}
   m_Layer: 0
-  m_Name: GameObject
+  m_Name: Player
   m_TagString: Unclickable
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -638,6 +638,10 @@ MonoBehaviour:
   cam: {fileID: 961739752}
   _agent: {fileID: 453440210}
   canMove: 1
+  clickVfxPrefab: {fileID: 5238538877814813142, guid: 47096eff328e11a418ace7db2d72aa97, type: 3}
+  clickableLayers:
+    serializedVersion: 2
+    m_Bits: 1
 --- !u!54 &453440212
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -679,7 +683,7 @@ GameObject:
   - component: {fileID: 807941819}
   m_Layer: 0
   m_Name: Plane
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1273,7 +1277,7 @@ GameObject:
   - component: {fileID: 1523574139}
   - component: {fileID: 1523574138}
   - component: {fileID: 1523574137}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Cube (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1383,7 +1387,7 @@ GameObject:
   - component: {fileID: 1644143740}
   m_Layer: 0
   m_Name: Plane (1)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
