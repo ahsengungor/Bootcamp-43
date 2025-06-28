@@ -2,45 +2,53 @@ using UnityEngine;
 
 public class CameraController : MonoBehaviour
 {
-    public Transform target;          // Döndürmek istediðin obje (örneðin odak noktasý)
-    public float rotationSpeed = 5f;  // Döndürme hýzý
-    public float distance = 5f;       // Objeye olan mesafe
+    public float moveSpeed = 5f;
+    public float rotationStep = 45f;        // Her Q/E basýþýnda hedef açý
+    public float rotationSmoothSpeed = 5f;  // Yumuþaklýk derecesi (daha yüksek = daha hýzlý döner)
 
-    private float yaw = 0f;  // Yatay açý
-    private float pitch = 0f; // Dikey açý
-
-    void Start()
-    {
-        if (target == null)
-        {
-            Debug.LogError("Target atanmadý!");
-            enabled = false;
-            return;
-        }
-
-        // Baþlangýç pozisyonu
-        Vector3 direction = new Vector3(0, 0, -distance);
-        transform.position = target.position + direction;
-        transform.LookAt(target);
-    }
+    private float currentYaw = 45f;         // Hedef açý
+    private float actualYaw = 45f;          // Gerçek dönüþ açýsý
 
     void Update()
     {
-        if (Input.GetMouseButton(1)) // Sað týk basýlý mý
+        HandleMovement();
+        HandleRotation();
+        ApplySmoothRotation();
+    }
+
+    void HandleMovement()
+    {
+        float h = Input.GetAxisRaw("Horizontal");
+        float v = Input.GetAxisRaw("Vertical");
+
+        Vector3 inputDir = new Vector3(h, 0f, v).normalized;
+
+        Quaternion yawRotation = Quaternion.Euler(0, actualYaw, 0); // NOT: actualYaw kullan
+        Vector3 moveDir = yawRotation * inputDir;
+
+        transform.position += moveDir * moveSpeed * Time.deltaTime;
+    }
+
+    void HandleRotation()
+    {
+        if (Input.GetKeyDown(KeyCode.Q))
         {
-            // Fare hareketi
-            yaw += Input.GetAxis("Mouse X") * rotationSpeed;
-            pitch -= Input.GetAxis("Mouse Y") * rotationSpeed;
-
-            // Pitch açýsýný sýnýrla (mesela -80 ile 80 derece arasý)
-            pitch = Mathf.Clamp(pitch, -80f, 80f);
-
-            // Hesaplanan açýlarla yeni pozisyonu ayarla
-            Quaternion rotation = Quaternion.Euler(pitch, yaw, 0);
-            Vector3 offset = rotation * new Vector3(0, 0, -distance);
-
-            transform.position = target.position + offset;
-            transform.LookAt(target);
+            currentYaw -= rotationStep;
+        }
+        if (Input.GetKeyDown(KeyCode.E))
+        {
+            currentYaw += rotationStep;
         }
     }
+
+    void ApplySmoothRotation()
+    {
+        // Smooth dönüþ (actualYaw zamanla currentYaw'e yaklaþýr)
+        actualYaw = Mathf.LerpAngle(actualYaw, currentYaw, rotationSmoothSpeed * Time.deltaTime);
+
+        // Ýzometrik açý sabit, sadece Y dönüyor
+        transform.rotation = Quaternion.Euler(30f, actualYaw, 0f);
+    }
+
 }
+
