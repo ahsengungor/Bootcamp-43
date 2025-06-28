@@ -9,6 +9,9 @@ public class CameraController : MonoBehaviour
     private float currentYaw = 45f;         // Hedef açý
     private float actualYaw = 45f;          // Gerçek dönüþ açýsý
 
+    private float minYaw = -45f;
+    private float maxYaw = 135f;
+
     void Update()
     {
         HandleMovement();
@@ -39,6 +42,7 @@ public class CameraController : MonoBehaviour
         {
             currentYaw += rotationStep;
         }
+        currentYaw = Mathf.Clamp(currentYaw, minYaw, maxYaw);
     }
 
     void ApplySmoothRotation()
