@@ -5,6 +5,7 @@ Library/
 Logs/
 Obj/
 Build/
+.vs/
 
 # User settings
 UserSettings/
