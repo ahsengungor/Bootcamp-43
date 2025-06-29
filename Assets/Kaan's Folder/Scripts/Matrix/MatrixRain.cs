@@ -53,6 +53,12 @@ public class MatrixRain : MonoBehaviour
         StartCoroutine(AnimateColumn(newCol));
     }
 
+    private void Update()
+    {
+        Debug.Log($"Panel Rect Yukseklik : {spawnArea.rect.height} " +
+            $"\nAnchor Pozisyonlarý : {spawnArea.anchoredPosition.y}");
+    }
+
     IEnumerator AnimateColumn(GameObject column)
     {
         RectTransform rect = column.GetComponent<RectTransform>();
@@ -90,6 +96,7 @@ public class MatrixRain : MonoBehaviour
 
             yield return null;
         }
+            Debug.Log(column.gameObject.name + "Spawned at " + rect.anchoredPosition);
 
         Destroy(column);
     }
