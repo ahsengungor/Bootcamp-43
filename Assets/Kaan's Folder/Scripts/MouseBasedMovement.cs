@@ -15,7 +15,7 @@ public class MouseBasedMovement : MonoBehaviour
 
     void Start()
     {
-        
+        _agent = GetComponent<NavMeshAgent>();  
     }
 
     void Update()
