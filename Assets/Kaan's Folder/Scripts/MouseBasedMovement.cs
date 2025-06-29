@@ -37,6 +37,9 @@ public class MouseBasedMovement : MonoBehaviour
                      Instantiate(clickVfxPrefab, hit.point, Quaternion.identity);
                 _agent.SetDestination(hit.point);
 
+                Vector3 hitPoint = new Vector3(hit.point.x, 0.5f, hit.point.z);
+                Instantiate(clickVfxPrefab, hitPoint, Quaternion.identity);
+
             }
         }
     }

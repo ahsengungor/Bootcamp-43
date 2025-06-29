@@ -3,6 +3,13 @@
   "WorkspaceRootPath": "D:\\UnityProjects\\Bootcamp-43\\Bootcamp-43\\",
   "Documents": [
     {
+<<<<<<< HEAD
+=======
+      "AbsoluteMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|d:\\unityprojects\\bootcamp-43\\bootcamp-43\\assets\\kaan\u0027s folder\\scripts\\matrix\\matrixrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|solutionrelative:assets\\kaan\u0027s folder\\scripts\\matrix\\matrixrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+>>>>>>> kaan
       "AbsoluteMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|D:\\UnityProjects\\Bootcamp-43\\Bootcamp-43\\assets\\kaan\u0027s folder\\scripts\\mousebasedmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|solutionrelative:assets\\kaan\u0027s folder\\scripts\\mousebasedmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,7 +22,11 @@
       "RelativeMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|solutionrelative:assets\\kaan\u0027s folder\\scripts\\qte scripts\\qtemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|d:\\unityprojects\\bootcamp-43\\bootcamp-43\\assets\\kaan\u0027s folder\\scripts\\qte scripts\\qtebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+      "AbsoluteMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|D:\\UnityProjects\\Bootcamp-43\\Bootcamp-43\\assets\\kaan\u0027s folder\\scripts\\qte scripts\\qtebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> kaan
       "RelativeMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|solutionrelative:assets\\kaan\u0027s folder\\scripts\\qte scripts\\qtebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -33,7 +44,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 4,
+=======
+          "SelectedChildIndex": 1,
+>>>>>>> kaan
           "Children": [
             {
               "$type": "Bookmark",
@@ -41,7 +56,24 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 2,
+=======
+              "DocumentIndex": 0,
+              "Title": "MatrixRain.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\Bootcamp-43\\Bootcamp-43\\Assets\\Kaan\u0027s Folder\\Scripts\\Matrix\\MatrixRain.cs",
+              "RelativeDocumentMoniker": "Assets\\Kaan\u0027s Folder\\Scripts\\Matrix\\MatrixRain.cs",
+              "ToolTip": "D:\\UnityProjects\\Bootcamp-43\\Bootcamp-43\\Assets\\Kaan\u0027s Folder\\Scripts\\Matrix\\MatrixRain.cs",
+              "RelativeToolTip": "Assets\\Kaan\u0027s Folder\\Scripts\\Matrix\\MatrixRain.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAFgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T14:24:20.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+>>>>>>> kaan
               "Title": "QTEManager.cs",
               "DocumentMoniker": "D:\\UnityProjects\\Bootcamp-43\\Bootcamp-43\\Assets\\Kaan\u0027s Folder\\Scripts\\QTE Scripts\\QTEManager.cs",
               "RelativeDocumentMoniker": "Assets\\Kaan\u0027s Folder\\Scripts\\QTE Scripts\\QTEManager.cs",
@@ -49,12 +81,15 @@
               "RelativeToolTip": "Assets\\Kaan\u0027s Folder\\Scripts\\QTE Scripts\\QTEManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T19:15:08.413Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-28T19:15:08.413Z"
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 3,
+=======
+              "DocumentIndex": 4,
+>>>>>>> kaan
               "Title": "QTEButton.cs",
               "DocumentMoniker": "D:\\UnityProjects\\Bootcamp-43\\Bootcamp-43\\Assets\\Kaan\u0027s Folder\\Scripts\\QTE Scripts\\QTEButton.cs",
               "RelativeDocumentMoniker": "Assets\\Kaan\u0027s Folder\\Scripts\\QTE Scripts\\QTEButton.cs",
@@ -62,8 +97,7 @@
               "RelativeToolTip": "Assets\\Kaan\u0027s Folder\\Scripts\\QTE Scripts\\QTEButton.cs",
               "ViewState": "AgIAAFQAAAAAAAAAAAAiwHUAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T19:10:23.666Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-28T19:10:23.666Z"
             },
             {
               "$type": "Document",
@@ -80,20 +114,28 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 0,
+=======
+              "DocumentIndex": 1,
+>>>>>>> kaan
               "Title": "MouseBasedMovement.cs",
               "DocumentMoniker": "D:\\UnityProjects\\Bootcamp-43\\Bootcamp-43\\Assets\\Kaan\u0027s Folder\\Scripts\\MouseBasedMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Kaan\u0027s Folder\\Scripts\\MouseBasedMovement.cs",
               "ToolTip": "D:\\UnityProjects\\Bootcamp-43\\Bootcamp-43\\Assets\\Kaan\u0027s Folder\\Scripts\\MouseBasedMovement.cs",
               "RelativeToolTip": "Assets\\Kaan\u0027s Folder\\Scripts\\MouseBasedMovement.cs",
+<<<<<<< HEAD
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwBkAAAAIAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCYAAAA0AAAAAAAAAA==",
+>>>>>>> kaan
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-28T11:17:06.585Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "D:\\UnityProjects\\Bootcamp-43\\Bootcamp-43\\Assets\\Kaan\u0027s Folder\\Scripts\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Kaan\u0027s Folder\\Scripts\\PlayerController.cs",
@@ -101,11 +143,12 @@
               "RelativeToolTip": "Assets\\Kaan\u0027s Folder\\Scripts\\PlayerController.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAQwB0AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T10:27:45.261Z"
+              "WhenOpened": "2025-06-28T10:27:45.261Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "PlayerLightDetector.cs",
               "DocumentMoniker": "D:\\UnityProjects\\Bootcamp-43\\Assets\\Kaan\u0027s Folder\\Scripts\\PlayerLightDetector.cs",
               "RelativeDocumentMoniker": "..\\Assets\\Kaan\u0027s Folder\\Scripts\\PlayerLightDetector.cs",
