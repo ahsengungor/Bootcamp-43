@@ -35,8 +35,8 @@ public class MouseBasedMovement : MonoBehaviour
                 // Unclickable tagi varsa týklanmýyor.
                 if (!hit.transform.gameObject.CompareTag("Ground")) return;
                 _agent.SetDestination(hit.point);
-                
-                Instantiate(clickVfxPrefab, hit.point, Quaternion.identity);
+                Vector3 hitPoint = new Vector3(hit.point.x, 0.5f, hit.point.z);
+                Instantiate(clickVfxPrefab, hitPoint, Quaternion.identity);
 
             }
         }
