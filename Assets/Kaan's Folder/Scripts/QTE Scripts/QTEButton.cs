@@ -5,9 +5,9 @@ using System; // Enum.Parse için gerekli
 
 public class QTEButton : MonoBehaviour
 {
-    public float enterSpeed;
-    public float exitSpeed;
-    public float waitTime;
+    public float enterSpeed = 800f;
+    public float exitSpeed = 1000f;
+    public float waitTime = 1.5f;
 
     private RectTransform rect;
     private Vector2 startPos;
@@ -20,7 +20,6 @@ public class QTEButton : MonoBehaviour
     private KeyCode keyCode;  // Kontrol için KeyCode tutacağız
 
     private bool qteFinished = false; // QTE'nin bittiğini (başarılı/başarısız) belirtmek için
-    private QTEManager manager;
 
     void Awake()
     {
@@ -47,19 +46,6 @@ public class QTEButton : MonoBehaviour
 
     public void StartQTE()
     {
-        if (QTEManager.Instance.hardness == QTEManager.GameMode.easy)
-        {
-            waitTime = 1.5f;
-            enterSpeed = 800f;
-            exitSpeed = 1000f;
-        }
-        else if (QTEManager.Instance.hardness == QTEManager.GameMode.hard)
-        {
-            waitTime = 0.5f;
-            enterSpeed = 1200f;
-            exitSpeed = 2000f;
-        }
-       
         StartCoroutine(QTEFlow());
         Debug.Log("Beklenen Tuş: " + keyString);
     }
