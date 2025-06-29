@@ -7,6 +7,12 @@ public class MouseBasedMovement : MonoBehaviour
     public Camera cam;
     public NavMeshAgent _agent;
     public bool canMove = true;
+
+    public GameObject clickVfxPrefab;
+
+    [Tooltip("Raycast'in çarpabileceði katmanlarý seçin. 'InvisibleWall' katmanýný seçmeyin.")]
+    public LayerMask clickableLayers;
+
     void Start()
     {
         
@@ -24,11 +30,14 @@ public class MouseBasedMovement : MonoBehaviour
         {
             Ray ray = cam.ScreenPointToRay(Input.mousePosition);
             RaycastHit hit;
-            if (Physics.Raycast(ray, out hit, Mathf.Infinity, ~0, QueryTriggerInteraction.Ignore))
+            if (Physics.Raycast(ray, out hit, Mathf.Infinity, clickableLayers))
             {
                 // Unclickable tagi varsa týklanmýyor.
-                if (hit.transform.gameObject.CompareTag("Unclickable")) return;
+                if (!hit.transform.gameObject.CompareTag("Ground")) return;
                 _agent.SetDestination(hit.point);
+                Vector3 hitPoint = new Vector3(hit.point.x, 0.5f, hit.point.z);
+                Instantiate(clickVfxPrefab, hitPoint, Quaternion.identity);
+
             }
         }
     }
