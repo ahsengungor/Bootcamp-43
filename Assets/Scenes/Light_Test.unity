@@ -639,12 +639,9 @@ MonoBehaviour:
   _agent: {fileID: 453440210}
   canMove: 1
   clickVfxPrefab: {fileID: 5238538877814813142, guid: 47096eff328e11a418ace7db2d72aa97, type: 3}
-<<<<<<< HEAD
-=======
   clickableLayers:
     serializedVersion: 2
     m_Bits: 1
->>>>>>> kaan
 --- !u!54 &453440212
 Rigidbody:
   m_ObjectHideFlags: 0
