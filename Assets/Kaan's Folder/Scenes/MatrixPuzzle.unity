@@ -251,15 +251,19 @@ PrefabInstance:
     - target: {fileID: 705673463145388583, guid: b269ea712a37266419bca9ed12296b3e, type: 3}
       propertyPath: clueFont
       value: 
-      objectReference: {fileID: 11400000, guid: 56729147cc195b74b9c021dd66fe8506, type: 2}
+      objectReference: {fileID: 11400000, guid: c801f24404a95ff48827b33bf3b8232d, type: 2}
     - target: {fileID: 705673463145388583, guid: b269ea712a37266419bca9ed12296b3e, type: 3}
       propertyPath: spawnArea
       value: 
       objectReference: {fileID: 1762609324}
     - target: {fileID: 705673463145388583, guid: b269ea712a37266419bca9ed12296b3e, type: 3}
+      propertyPath: columnCount
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 705673463145388583, guid: b269ea712a37266419bca9ed12296b3e, type: 3}
       propertyPath: columnPrefab
       value: 
-      objectReference: {fileID: 1515832041050658107, guid: eeb14234191523246bb651e72ae9397e, type: 3}
+      objectReference: {fileID: 1515832041050658107, guid: e9abc038911ea9d449c7564c9c9821af, type: 3}
     - target: {fileID: 4292418089647208030, guid: b269ea712a37266419bca9ed12296b3e, type: 3}
       propertyPath: m_Name
       value: MatrixManager
