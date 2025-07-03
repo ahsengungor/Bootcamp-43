@@ -53,12 +53,6 @@ public class MatrixRain : MonoBehaviour
         StartCoroutine(AnimateColumn(newCol));
     }
 
-    private void Update()
-    {
-        Debug.Log($"Panel Rect Yukseklik : {spawnArea.rect.height} " +
-            $"\nAnchor Pozisyonlarý : {spawnArea.anchoredPosition.y}");
-    }
-
     IEnumerator AnimateColumn(GameObject column)
     {
         RectTransform rect = column.GetComponent<RectTransform>();

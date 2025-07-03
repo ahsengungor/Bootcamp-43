@@ -253,6 +253,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: c801f24404a95ff48827b33bf3b8232d, type: 2}
     - target: {fileID: 705673463145388583, guid: b269ea712a37266419bca9ed12296b3e, type: 3}
+      propertyPath: hardness
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 705673463145388583, guid: b269ea712a37266419bca9ed12296b3e, type: 3}
       propertyPath: spawnArea
       value: 
       objectReference: {fileID: 1762609324}
