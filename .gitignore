@@ -1,11 +1,10 @@
 # Unity Cache Folders
-[Lütfen yapıştır]
+.vs/
 Temp/
 Library/
 Logs/
 Obj/
 Build/
-.vs/
 
 # User settings
 UserSettings/
