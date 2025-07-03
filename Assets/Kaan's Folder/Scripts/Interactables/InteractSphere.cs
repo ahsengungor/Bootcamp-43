@@ -4,6 +4,7 @@ public class InteractSphere : MonoBehaviour, IInteractable
 {
     public string promptMessage = "Sphere Interacted";
     private AudioSource _audioSource;
+    [SerializeField] private DialogueData testDialogueSequence;
 
     public Transform Transform => transform;
 
@@ -21,5 +22,6 @@ public class InteractSphere : MonoBehaviour, IInteractable
     {
         Debug.Log("Test Dogru!");
         _audioSource.Play();
+        DialogueController.Instance.LoadDialogue(testDialogueSequence);
     }
 }
