@@ -16,7 +16,7 @@
 
 
 ## Game Name
-Neural Heist
+NeuroDive
 
 
 ## Product Backlog List
@@ -25,21 +25,23 @@ Neural Heist
 - [U-43 Trello Sprint Board - 3](https://trello.com/b/V8sbhcHa/sprint-3)
 
 ## Game Description
-Neural Heist is an isometric puzzle/strategy game that blends science fiction and psychological thriller elements. The player infiltrates the minds of targeted individuals to extract valuable information. Throughout the game, the player explores various environments to gather clues about the target, manipulates the surroundings to create optimal conditions for a neural breach, and ultimately enters a surreal and hostile mental landscape to retrieve the data and complete the mission.
+NeuroDive is an isometric puzzle/strategy game that blends science fiction and psychological thriller elements. The player infiltrates the minds of targeted individuals to extract valuable information. Throughout the game, the player explores various environments to gather clues about the target, manipulates the surroundings to create optimal conditions for a neural breach, and ultimately enters a surreal and hostile mental landscape to retrieve the data and complete the mission.
 
 ## Game Features
--
--
--
--
--
--
+- 3D
+- Singleplayer
+- Adventure/Puzzle
+- Interactive Quests
+- Low-poly
+- Offline
+
 
 ## Target Group
--
--
--
--
+- 7 +
+- Indie game lovers
+- Exploration and Adventure Lovers
+
+
 
 ## Links
 - [Check Out Our Product]()
