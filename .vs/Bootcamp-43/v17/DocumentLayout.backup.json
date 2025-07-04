@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\eceek\\Desktop\\Unity Bootcamp\\Bootcamp-43\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|C:\\Users\\eceek\\Desktop\\Unity Bootcamp\\Bootcamp-43\\assets\\ece\u0027s folder\\scripts\\settingsaudiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|solutionrelative:assets\\ece\u0027s folder\\scripts\\settingsaudiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|c:\\users\\eceek\\desktop\\unity bootcamp\\bootcamp-43\\assets\\ece\u0027s folder\\scripts\\settingstoggle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|solutionrelative:assets\\ece\u0027s folder\\scripts\\settingstoggle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|C:\\Users\\eceek\\Desktop\\Unity Bootcamp\\Bootcamp-43\\assets\\ece\u0027s folder\\scripts\\buttonsound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|solutionrelative:assets\\ece\u0027s folder\\scripts\\buttonsound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|C:\\Users\\eceek\\Desktop\\Unity Bootcamp\\Bootcamp-43\\assets\\ece\u0027s folder\\scripts\\mainmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|solutionrelative:assets\\ece\u0027s folder\\scripts\\mainmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|c:\\users\\eceek\\desktop\\unity bootcamp\\bootcamp-43\\assets\\ece\u0027s folder\\scripts\\frequencymatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|solutionrelative:assets\\ece\u0027s folder\\scripts\\frequencymatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,57 +14,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SettingsToggle.cs",
-              "DocumentMoniker": "C:\\Users\\eceek\\Desktop\\Unity Bootcamp\\Bootcamp-43\\Assets\\Ece\u0027s Folder\\Scripts\\SettingsToggle.cs",
-              "RelativeDocumentMoniker": "Assets\\Ece\u0027s Folder\\Scripts\\SettingsToggle.cs",
-              "ToolTip": "C:\\Users\\eceek\\Desktop\\Unity Bootcamp\\Bootcamp-43\\Assets\\Ece\u0027s Folder\\Scripts\\SettingsToggle.cs",
-              "RelativeToolTip": "Assets\\Ece\u0027s Folder\\Scripts\\SettingsToggle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T23:17:27.614Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SettingsAudioController.cs",
-              "DocumentMoniker": "C:\\Users\\eceek\\Desktop\\Unity Bootcamp\\Bootcamp-43\\Assets\\Ece\u0027s Folder\\Scripts\\SettingsAudioController.cs",
-              "RelativeDocumentMoniker": "Assets\\Ece\u0027s Folder\\Scripts\\SettingsAudioController.cs",
-              "ToolTip": "C:\\Users\\eceek\\Desktop\\Unity Bootcamp\\Bootcamp-43\\Assets\\Ece\u0027s Folder\\Scripts\\SettingsAudioController.cs",
-              "RelativeToolTip": "Assets\\Ece\u0027s Folder\\Scripts\\SettingsAudioController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAqwCoAAAAAAAAAAAAAAA==",
+              "Title": "FrequencyMatcher.cs",
+              "DocumentMoniker": "C:\\Users\\eceek\\Desktop\\Unity Bootcamp\\Bootcamp-43\\Assets\\Ece\u0027s Folder\\Scripts\\FrequencyMatcher.cs",
+              "RelativeDocumentMoniker": "Assets\\Ece\u0027s Folder\\Scripts\\FrequencyMatcher.cs",
+              "ToolTip": "C:\\Users\\eceek\\Desktop\\Unity Bootcamp\\Bootcamp-43\\Assets\\Ece\u0027s Folder\\Scripts\\FrequencyMatcher.cs",
+              "RelativeToolTip": "Assets\\Ece\u0027s Folder\\Scripts\\FrequencyMatcher.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAIwHQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T22:14:06.055Z",
+              "WhenOpened": "2025-07-03T20:37:22.797Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ButtonSound.cs",
-              "DocumentMoniker": "C:\\Users\\eceek\\Desktop\\Unity Bootcamp\\Bootcamp-43\\Assets\\Ece\u0027s Folder\\Scripts\\ButtonSound.cs",
-              "RelativeDocumentMoniker": "Assets\\Ece\u0027s Folder\\Scripts\\ButtonSound.cs",
-              "ToolTip": "C:\\Users\\eceek\\Desktop\\Unity Bootcamp\\Bootcamp-43\\Assets\\Ece\u0027s Folder\\Scripts\\ButtonSound.cs",
-              "RelativeToolTip": "Assets\\Ece\u0027s Folder\\Scripts\\ButtonSound.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T21:12:14.051Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainMenuController.cs",
-              "DocumentMoniker": "C:\\Users\\eceek\\Desktop\\Unity Bootcamp\\Bootcamp-43\\Assets\\Ece\u0027s Folder\\Scripts\\MainMenuController.cs",
-              "RelativeDocumentMoniker": "Assets\\Ece\u0027s Folder\\Scripts\\MainMenuController.cs",
-              "ToolTip": "C:\\Users\\eceek\\Desktop\\Unity Bootcamp\\Bootcamp-43\\Assets\\Ece\u0027s Folder\\Scripts\\MainMenuController.cs",
-              "RelativeToolTip": "Assets\\Ece\u0027s Folder\\Scripts\\MainMenuController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T20:34:43.101Z"
             }
           ]
         }
