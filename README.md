@@ -113,10 +113,6 @@ NeuroDive is an isometric puzzle/strategy game that blends science fiction and p
    |:---------------------------------:|
    | aaa                        |
 
-* aaa
-
-   | ![Dev Gif or Image](images/image-15.png) |
-   |:aaa                         |
 
 
  ### **Sprint Review**
