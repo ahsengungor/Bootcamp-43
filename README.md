@@ -41,7 +41,8 @@ NeuroDive is an isometric puzzle/strategy game that blends science fiction and p
 - Indie game lovers
 - Exploration and Adventure Lovers
 
-
+## Marketing Strategy
+- We believe that our game will be a highly enjoyable game due to its adventurous and strategic structure. In line with these goals, we have decided to market our game on Steam with a price tag of $2.
 
 ## Links
 - [Check Out Our Product]()
@@ -89,29 +90,29 @@ NeuroDive is an isometric puzzle/strategy game that blends science fiction and p
 
  
 ### **Development Progress**
-* aaa
+* 3 mini games were programmed in our game. Main Menu design was done.
 
    | ![Dev Gif or Image](images/image-9.gif) | ![Dev Gif or Image](images/image-10.gif) |
    |:---------------------------------:|:-----------------------------------:|
-   | aaa                        | bbb                        |
+   | Main Menu Design                        | Minigame                     |
 
-* bbb
+* Character movement mechanics and interaction system coded. Camera controls programmed.
 
    | ![Dev Gif or Image](images/image-11.gif) | ![Dev Gif or Image](images/image-12.gif) |
    |:---------------------------------:|:-----------------------------------:|
-   | aaa                        | bbb                         |
+   | Interaction System                        | Camera Controls                         |
 
-* aaa
+* The basic logic scheme of the game has been created.
 
    | ![Dev Gif or Image](images/image-13.png) |
    |:---------------------------------:|
-   | aaa                       |
+   | Logic Scheme                       |
 
-* aaa
+* Work has begun on new mini games.
 
    | ![Dev Gif or Image](images/image-14.png) |
    |:---------------------------------:|
-   | aaa                        |
+   | New Minigame Progress                        |
 
 
 
