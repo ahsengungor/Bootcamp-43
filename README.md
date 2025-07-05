@@ -53,18 +53,18 @@ NeuroDive is an isometric puzzle/strategy game that blends science fiction and p
    | ![Sprint 1](images/image-3.png) |
    |:---------------------------------:|
 
-- It has been decided that the score evaluation for the sprint will be 20.
-- Score completion logic: The backlog score that must be completed throughout the project is expected to be 50. The number of points to be completed for the first Sprint was determined as 20, and the target score was reached by obtaining 20 points.
+- It has been decided that the score evaluation for the sprint will be 10.
+- Score completion logic: The backlog score that must be completed throughout the project is expected to be 30. The number of points to be completed for the first Sprint was determined as 10, and the target score was reached by obtaining 10 points.
 
 ### **Sprint 1 Notes**
-- aaaa
-- aaaa <br>
+- At the beginning of the first sprint the team has presented different ideas and decided the basic elements of the game.
+- The tasks were decided afterwards. <br>
 
   **To Do List:**
-- bbb
-- bbb
-- bbb
-- bbb
+- Programming the isometric camera controls
+- Coding the character mechanics
+- Coding the mini games
+- Designing the main menu 
 
 ### **Sprint 1 Board**
    | ![Sprint Board 1](images/image-4.png) |
