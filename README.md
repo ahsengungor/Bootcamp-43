@@ -118,17 +118,14 @@ NeuroDive is an isometric puzzle/strategy game that blends science fiction and p
 
  ### **Sprint Review**
 - At the end of Sprint 1, the team met and the Sprint was reviewed. The intended tasks have all been completed.
-Sprint Review participants:
+Sprint Review participants: Ahsen Büşra Nur Güngör, Kaan Avdan, Ece Koçak, Mustafa Toprak Sezgin, Eşref Bakar
 
 
 
 
  ### **Sprint Retrospective**
-- The score for Sprint 1 is 20.
-
-
-
-
-
- ### **Sprint Retrospective**
-- aaa
+- The score for Sprint 1 is 10.
+- It was decided that the map would be completed in Sprint 2.
+- The character's mechanics were coded.
+- The team discussed the next steps, and the tasks of completing the map and completing the cinematic images to be used at the beginning were added to the to-do list of the second sprint.
+- It was decided that communication between team members would be increased in future sprints.
