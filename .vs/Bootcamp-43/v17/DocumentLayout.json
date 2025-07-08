@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|c:\\users\\k2ann00\\desktop\\boot-43\\bootcamp-43\\assets\\kaan\u0027s folder\\scripts\\dialogue\\dialoguecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|solutionrelative:assets\\kaan\u0027s folder\\scripts\\dialogue\\dialoguecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|c:\\users\\k2ann00\\desktop\\boot-43\\bootcamp-43\\assets\\kaan\u0027s folder\\scripts\\interactables\\interactsphere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|solutionrelative:assets\\kaan\u0027s folder\\scripts\\interactables\\interactsphere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|c:\\users\\k2ann00\\desktop\\boot-43\\bootcamp-43\\assets\\kaan\u0027s folder\\scripts\\dialogue\\dialougedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|solutionrelative:assets\\kaan\u0027s folder\\scripts\\dialogue\\dialougedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|c:\\users\\k2ann00\\desktop\\boot-43\\bootcamp-43\\assets\\kaan\u0027s folder\\scripts\\matrix\\matrixrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\assets\\kaan\u0027s folder\\scripts\\matrix\\matrixrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|solutionrelative:assets\\kaan\u0027s folder\\scripts\\matrix\\matrixrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\assets\\kaan\u0027s folder\\scripts\\interactables\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|solutionrelative:assets\\kaan\u0027s folder\\scripts\\interactables\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|c:\\users\\k2ann00\\desktop\\boot-43\\bootcamp-43\\assets\\kaan\u0027s folder\\scripts\\interactables\\interactsphere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|solutionrelative:assets\\kaan\u0027s folder\\scripts\\interactables\\interactsphere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\assets\\kaan\u0027s folder\\scripts\\player\\interaction\\playerinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,6 +66,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DialogueController.cs",
+              "DocumentMoniker": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Kaan\u0027s Folder\\Scripts\\Dialogue\\DialogueController.cs",
+              "RelativeDocumentMoniker": "Assets\\Kaan\u0027s Folder\\Scripts\\Dialogue\\DialogueController.cs",
+              "ToolTip": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Kaan\u0027s Folder\\Scripts\\Dialogue\\DialogueController.cs",
+              "RelativeToolTip": "Assets\\Kaan\u0027s Folder\\Scripts\\Dialogue\\DialogueController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T20:22:39.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "DialougeData.cs",
               "DocumentMoniker": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Kaan\u0027s Folder\\Scripts\\Dialogue\\DialougeData.cs",
               "RelativeDocumentMoniker": "Assets\\Kaan\u0027s Folder\\Scripts\\Dialogue\\DialougeData.cs",
@@ -74,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Door.cs",
               "DocumentMoniker": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Kaan\u0027s Folder\\Scripts\\Interactables\\Door.cs",
               "RelativeDocumentMoniker": "Assets\\Kaan\u0027s Folder\\Scripts\\Interactables\\Door.cs",
@@ -86,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "InteractionUI.cs",
               "DocumentMoniker": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Kaan\u0027s Folder\\Scripts\\Player\\Interaction\\InteractionUI.cs",
               "RelativeDocumentMoniker": "Assets\\Kaan\u0027s Folder\\Scripts\\Player\\Interaction\\InteractionUI.cs",
@@ -98,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "PlayerInteraction.cs",
               "DocumentMoniker": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Kaan\u0027s Folder\\Scripts\\Player\\Interaction\\PlayerInteraction.cs",
               "RelativeDocumentMoniker": "Assets\\Kaan\u0027s Folder\\Scripts\\Player\\Interaction\\PlayerInteraction.cs",
@@ -110,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "IInteractable.cs",
               "DocumentMoniker": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Kaan\u0027s Folder\\Scripts\\Player\\Interaction\\IInteractable.cs",
               "RelativeDocumentMoniker": "Assets\\Kaan\u0027s Folder\\Scripts\\Player\\Interaction\\IInteractable.cs",
@@ -122,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "DocumentLayout.backup.json",
               "DocumentMoniker": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\.vs\\Bootcamp-43\\v17\\DocumentLayout.backup.json",
               "RelativeDocumentMoniker": ".vs\\Bootcamp-43\\v17\\DocumentLayout.backup.json",
@@ -135,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MatrixRain.cs",
               "DocumentMoniker": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Kaan\u0027s Folder\\Scripts\\Matrix\\MatrixRain.cs",
               "RelativeDocumentMoniker": "Assets\\Kaan\u0027s Folder\\Scripts\\Matrix\\MatrixRain.cs",
@@ -143,12 +160,11 @@
               "RelativeToolTip": "Assets\\Kaan\u0027s Folder\\Scripts\\Matrix\\MatrixRain.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAAADUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T18:07:02.342Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-02T18:07:02.342Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ButtonSound.cs",
               "DocumentMoniker": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Ece\u0027s Folder\\Scripts\\ButtonSound.cs",
               "RelativeDocumentMoniker": "Assets\\Ece\u0027s Folder\\Scripts\\ButtonSound.cs",
@@ -160,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "MainMenuController.cs",
               "DocumentMoniker": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Ece\u0027s Folder\\Scripts\\MainMenuController.cs",
               "RelativeDocumentMoniker": "Assets\\Ece\u0027s Folder\\Scripts\\MainMenuController.cs",
@@ -172,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "SettingsAudioController.cs",
               "DocumentMoniker": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Ece\u0027s Folder\\Scripts\\SettingsAudioController.cs",
               "RelativeDocumentMoniker": "Assets\\Ece\u0027s Folder\\Scripts\\SettingsAudioController.cs",
@@ -184,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "SettingsToggle.cs",
               "DocumentMoniker": "C:\\Users\\eceek\\Desktop\\Unity Bootcamp\\Bootcamp-43\\Assets\\Ece\u0027s Folder\\Scripts\\SettingsToggle.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\eceek\\Desktop\\Unity Bootcamp\\Bootcamp-43\\Assets\\Ece\u0027s Folder\\Scripts\\SettingsToggle.cs",
@@ -202,13 +218,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "InteractSphere.cs",
               "DocumentMoniker": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Kaan\u0027s Folder\\Scripts\\Interactables\\InteractSphere.cs",
               "RelativeDocumentMoniker": "Assets\\Kaan\u0027s Folder\\Scripts\\Interactables\\InteractSphere.cs",
               "ToolTip": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Kaan\u0027s Folder\\Scripts\\Interactables\\InteractSphere.cs",
               "RelativeToolTip": "Assets\\Kaan\u0027s Folder\\Scripts\\Interactables\\InteractSphere.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-02T19:52:01.476Z",
               "EditorCaption": ""
