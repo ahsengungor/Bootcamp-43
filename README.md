@@ -16,7 +16,7 @@
 
 
 ## Game Name
-Neural Heist
+NeuroDive
 
 
 ## Product Backlog List
@@ -25,21 +25,24 @@ Neural Heist
 - [U-43 Trello Sprint Board - 3](https://trello.com/b/V8sbhcHa/sprint-3)
 
 ## Game Description
-Neural Heist is an isometric puzzle/strategy game that blends science fiction and psychological thriller elements. The player infiltrates the minds of targeted individuals to extract valuable information. Throughout the game, the player explores various environments to gather clues about the target, manipulates the surroundings to create optimal conditions for a neural breach, and ultimately enters a surreal and hostile mental landscape to retrieve the data and complete the mission.
+NeuroDive is an isometric puzzle/strategy game that blends science fiction and psychological thriller elements. The player infiltrates the minds of targeted individuals to extract valuable information. Throughout the game, the player explores various environments to gather clues about the target, manipulates the surroundings to create optimal conditions for a neural breach, and ultimately enters a surreal and hostile mental landscape to retrieve the data and complete the mission.
 
 ## Game Features
--
--
--
--
--
--
+- 3D
+- Singleplayer
+- Adventure/Puzzle
+- Interactive Quests
+- Low-poly
+- Offline
+
 
 ## Target Group
--
--
--
--
+- 7 +
+- Indie game lovers
+- Exploration and Adventure Lovers
+
+## Marketing Strategy
+- We believe that our game will be a highly enjoyable game due to its adventurous and strategic structure. In line with these goals, we have decided to market our game on Steam with a price tag of $2.
 
 ## Links
 - [Check Out Our Product]()
@@ -51,18 +54,18 @@ Neural Heist is an isometric puzzle/strategy game that blends science fiction an
    | ![Sprint 1](images/image-3.png) |
    |:---------------------------------:|
 
-- It has been decided that the score evaluation for the sprint will be 20.
-- Score completion logic: The backlog score that must be completed throughout the project is expected to be 50. The number of points to be completed for the first Sprint was determined as 20, and the target score was reached by obtaining 20 points.
+- It has been decided that the score evaluation for the sprint will be 10.
+- Score completion logic: The backlog score that must be completed throughout the project is expected to be 30. The number of points to be completed for the first Sprint was determined as 10, and the target score was reached by obtaining 10 points.Each task in the first sprint was considered as 1 point.
 
 ### **Sprint 1 Notes**
-- aaaa
-- aaaa <br>
+- At the beginning of the first sprint the team has presented different ideas and decided the basic elements of the game.
+- The tasks were decided afterwards. <br>
 
   **To Do List:**
-- bbb
-- bbb
-- bbb
-- bbb
+- Programming the isometric camera controls
+- Coding the character mechanics
+- Coding the mini games
+- Designing the main menu 
 
 ### **Sprint 1 Board**
    | ![Sprint Board 1](images/image-4.png) |
@@ -87,49 +90,42 @@ Neural Heist is an isometric puzzle/strategy game that blends science fiction an
 
  
 ### **Development Progress**
-* aaa
+* 3 mini games were programmed in our game. Main Menu design was done.
 
    | ![Dev Gif or Image](images/image-9.gif) | ![Dev Gif or Image](images/image-10.gif) |
    |:---------------------------------:|:-----------------------------------:|
-   | aaa                        | bbb                        |
+   | Main Menu Design                        | Minigame                     |
 
-* bbb
+* Character movement mechanics and interaction system coded. Camera controls programmed.
 
    | ![Dev Gif or Image](images/image-11.gif) | ![Dev Gif or Image](images/image-12.gif) |
    |:---------------------------------:|:-----------------------------------:|
-   | aaa                        | bbb                         |
+   | Interaction System                        | Camera Controls                         |
 
-* aaa
+* The basic logic scheme of the game has been created.
 
    | ![Dev Gif or Image](images/image-13.png) |
    |:---------------------------------:|
-   | aaa                       |
+   | Logic Scheme                       |
 
-* aaa
+* Work has begun on new mini games.
 
    | ![Dev Gif or Image](images/image-14.png) |
    |:---------------------------------:|
-   | aaa                        |
+   | New Minigame Progress                        |
 
-* aaa
-
-   | ![Dev Gif or Image](images/image-15.png) |
-   |:aaa                         |
 
 
  ### **Sprint Review**
 - At the end of Sprint 1, the team met and the Sprint was reviewed. The intended tasks have all been completed.
-Sprint Review participants:
+Sprint Review participants: Ahsen Büşra Nur Güngör, Kaan Avdan, Ece Koçak, Mustafa Toprak Sezgin, Eşref Bakar
 
 
 
 
  ### **Sprint Retrospective**
-- The score for Sprint 1 is 20.
-
-
-
-
-
- ### **Sprint Retrospective**
-- aaa
+- The score for Sprint 1 is 10.
+- It was decided that the map would be completed in Sprint 2.
+- The character's mechanics were coded.
+- The team discussed the next steps, and the tasks of completing the map and completing the cinematic images to be used at the beginning were added to the to-do list of the second sprint.
+- It was decided that communication between team members would be increased in future sprints.
