@@ -18,6 +18,7 @@ public class DialogueController : MonoBehaviour
     [Header("Settings")]
     public float typingSpeed = 0.05f;
 
+    private bool IsDialogueShowed;
     private string[] lines;
     private int currentLine = 0;
     private Coroutine typingCoroutine;
@@ -45,6 +46,7 @@ public class DialogueController : MonoBehaviour
         rightShadowImage.sprite = data.rightShadow;
 
         lines = data.dialogueLines;
+        IsDialogueShowed = data.IsDialogueShowed;
         currentLine = 0;
 
         StartTypingCurrentLine();
@@ -72,7 +74,7 @@ public class DialogueController : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Space))
         {
-            if (dialogueText.text == lines[currentLine])
+            if (dialogueText.text == lines[currentLine] && !IsDialogueShowed)
             {
                 currentLine++;
                 if (currentLine < lines.Length)
@@ -83,6 +85,7 @@ public class DialogueController : MonoBehaviour
                 {
                     // Dialogue bitti
                     DialoguePanel.SetActive(false);
+                    IsDialogueShowed = true;
                 }
             }
             else

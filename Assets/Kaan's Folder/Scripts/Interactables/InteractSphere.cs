@@ -20,7 +20,6 @@ public class InteractSphere : MonoBehaviour, IInteractable
 
     public void Interact()
     {
-        Debug.Log("Test Dogru!");
         _audioSource.Play();
         DialogueController.Instance.LoadDialogue(testDialogueSequence);
     }
