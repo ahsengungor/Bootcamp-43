@@ -82,7 +82,7 @@ public class DialogueController : MonoBehaviour
                 else
                 {
                     // Dialogue bitti
-                    gameObject.SetActive(false);
+                    DialoguePanel.SetActive(false);
                 }
             }
             else
