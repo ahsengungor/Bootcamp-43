@@ -27,7 +27,6 @@ public class InteractionUI : MonoBehaviour
     {
         if (instance == null || instance.promptText == null || instance.root == null)
         {
-            Debug.LogWarning("InteractionUI eksik");
             return;
         }
 
@@ -39,7 +38,6 @@ public class InteractionUI : MonoBehaviour
     {
         if (instance == null || instance.root == null)
         {
-            Debug.LogWarning("InteractionUI eksik");
             return;
         }
 

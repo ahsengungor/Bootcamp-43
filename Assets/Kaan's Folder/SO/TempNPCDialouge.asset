@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62dd1e1fc3278de41a87113e8bc10b02, type: 3}
+  m_Name: TempNPCDialouge
+  m_EditorClassIdentifier: 
+  IsDialogueShowed: 0
+  leftCharacter: {fileID: 21300000, guid: beed117fbb2bfcc479af39d5c0c761a6, type: 3}
+  leftShadow: {fileID: 21300000, guid: de2dc795b7e402143ba4ddb8ced3cda7, type: 3}
+  rightCharacter: {fileID: 21300000, guid: e569ec7ff93e8a04cb641742b75d62be, type: 3}
+  rightShadow: {fileID: 21300000, guid: 0b317d690508a4c42982aab01244314f, type: 3}
+  dialogueLines:
+  - '[PUNK]: DENEME 1 DOSTUM'
+  - '[NPC]: DENEME 2 DOSTUM'
+  - '[PUNK]: DENEME 3 DOSTUM'
+  - "[NPC]: GEL DE G\u0130R Z\u0130HN\u0130ME B\u0130LADER"
