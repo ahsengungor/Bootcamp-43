@@ -8,7 +8,7 @@ public class PlayerInteraction : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.F))
+        if (Input.GetKey(KeyCode.F))
         {
             IInteractable closest = GetClosestInteractable();
             closest?.Interact();

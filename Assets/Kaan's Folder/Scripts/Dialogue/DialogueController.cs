@@ -14,6 +14,8 @@ public class DialogueController : MonoBehaviour
     public Image rightCharacterImage;
     public Image rightShadowImage;
     public TextMeshProUGUI dialogueText;
+    public InteractionUI InteractionUI;
+    
 
     [Header("Settings")]
     public float typingSpeed = 0.05f;
@@ -39,6 +41,7 @@ public class DialogueController : MonoBehaviour
 
     public void LoadDialogue(DialogueData data)
     {
+        //InteractionUI.Hide();
         DialoguePanel.SetActive(true);
         leftCharacterImage.sprite = data.leftCharacter;
         leftShadowImage.sprite = data.leftShadow;
@@ -86,6 +89,7 @@ public class DialogueController : MonoBehaviour
                     // Dialogue bitti
                     DialoguePanel.SetActive(false);
                     IsDialogueShowed = true;
+                    
                 }
             }
             else

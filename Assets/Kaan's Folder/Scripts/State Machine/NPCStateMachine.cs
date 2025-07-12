@@ -38,7 +38,7 @@ public class NPCStateMachine : MonoBehaviour
 
         if (isPlayerInRange)
         {
-            InteractionUI.Show("for Interact");
+            //InteractionUI.Show("for Interact");
             if (Input.GetKeyDown(KeyCode.F))
             {
                 InteractionUI.Hide();

@@ -64,4 +64,9 @@ public class MouseBasedMovement : MonoBehaviour
         transform.rotation = Quaternion.Lerp(transform.rotation, targetRotation, Time.deltaTime * rotationSpeed);
     }
 
+    public void SetCanMove(bool _canMove)
+    {
+        canMove = _canMove;
+    }
+
 }

@@ -23,9 +23,16 @@ public class NPCWanderState : INPCState
         {
             npc.SetState(new NPCIdleState(npc));
         }
+
+        if (npc.agent.isStopped) 
+            npc.animator.SetBool("isWalking", false);
     }
 
-    public void Exit() { }
+    public void Exit() 
+    { 
+            
+
+    }
 
     private void MoveToRandomPoint()
     {
