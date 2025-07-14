@@ -10,17 +10,25 @@ public class TransformerInteraction : MonoBehaviour, IInteractable
     public string promptMessage = "'ye 3 Saniye Basýlý Tut";
     public float holdDuration = 3.0f;
     public float holdTimer = 0.0f;
+    public float fillAmount;
+
+
     public string GetInteractionPrompt()
     {
         return promptMessage;
     }
+    private void Update()
+    {
+        if (IsSuccessed) InteractionUI.instance.SetProgressBarActive(false);
+    }
+
 
     public void Interact()
     {
         if (Input.GetKey(KeyCode.F))
         {
             holdTimer += Time.deltaTime;
-            //progressBar.fillAmount = holdTimer / holdDuration;
+            InteractionUI.instance.SetProgressValue(holdTimer / holdDuration);
 
             if (holdTimer > holdDuration && !IsSuccessed)
             {
@@ -32,7 +40,7 @@ public class TransformerInteraction : MonoBehaviour, IInteractable
         {
             // Parmak kaldýrýlýrsa sýfýrla
             holdTimer = 0f;
-            //progressBar.fillAmount = 0f;
+            InteractionUI.instance.progressBar.fillAmount = 0f;
         }
     }
 
@@ -41,6 +49,7 @@ public class TransformerInteraction : MonoBehaviour, IInteractable
         if (IsSuccessed)
         {
             Debug.Log("InteractionSuccess");
+            InteractionUI.instance.SetProgressBarActive(!IsSuccessed);
         }
     }
 
@@ -56,7 +65,7 @@ public class TransformerInteraction : MonoBehaviour, IInteractable
         {
             CanInteract = false;
             holdTimer = 0f;
-            //progressBar.fillAmount = 0f;
+            InteractionUI.instance.progressBar.fillAmount = 0f;
         }
     }
 }
