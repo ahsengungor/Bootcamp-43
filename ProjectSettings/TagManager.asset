@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Unclickable
   - Ground
+  - TargetNPC
   layers:
   - Default
   - TransparentFX
