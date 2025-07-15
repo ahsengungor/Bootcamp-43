@@ -4,6 +4,7 @@ using UnityEngine.AI;
 
 public class MouseBasedMovement : MonoBehaviour
 {
+    public static MouseBasedMovement Instance;
     public Camera cam;
     public NavMeshAgent _agent;
     public bool canMove = true;
@@ -16,9 +17,24 @@ public class MouseBasedMovement : MonoBehaviour
     public LayerMask clickableLayers;
     private Vector3? lookTarget = null;
 
+    void Awake()
+    {
+        if (Instance != null && Instance != this)
+        {
+            Destroy(gameObject); // Sahnedeki fazlalýðý önle
+        }
+        else
+        {
+            Instance = this;
+        }
+    }
+
     void Start()
     {
-        _agent = GetComponent<NavMeshAgent>();  
+        _agent = GetComponent<NavMeshAgent>();
+
+        clickableLayers = ~(1 << LayerMask.NameToLayer("Player"));
+
     }
 
     void Update()

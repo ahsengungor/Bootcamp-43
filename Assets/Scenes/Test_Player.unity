@@ -638,6 +638,7 @@ MonoBehaviour:
   cam: {fileID: 961739752}
   _agent: {fileID: 453440210}
   canMove: 1
+  rotationSpeed: 5
   clickVfxPrefab: {fileID: 5238538877814813142, guid: 47096eff328e11a418ace7db2d72aa97, type: 3}
   clickableLayers:
     serializedVersion: 2
@@ -1482,6 +1483,33 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
+--- !u!1 &1768399426 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: e55fc9c9f4ff65a4bb47c557ed275bba, type: 3}
+  m_PrefabInstance: {fileID: 1877947059}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &1768399428
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1768399426}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 3d023cdcb0e9c0140bddf17e2b6eeeef, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &1795371300
 GameObject:
   m_ObjectHideFlags: 0
@@ -1605,6 +1633,72 @@ MonoBehaviour:
   moveSpeed: 5
   rotationStep: 45
   rotationSmoothSpeed: 5
+  zoomSpeed: 5
+  maxZoom: 50
+  minZoom: 1
+  virtualCam: {fileID: 0}
+--- !u!1001 &1877947059
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: e55fc9c9f4ff65a4bb47c557ed275bba, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.5646778
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e55fc9c9f4ff65a4bb47c557ed275bba, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e55fc9c9f4ff65a4bb47c557ed275bba, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -5.560124
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e55fc9c9f4ff65a4bb47c557ed275bba, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e55fc9c9f4ff65a4bb47c557ed275bba, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e55fc9c9f4ff65a4bb47c557ed275bba, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e55fc9c9f4ff65a4bb47c557ed275bba, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e55fc9c9f4ff65a4bb47c557ed275bba, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e55fc9c9f4ff65a4bb47c557ed275bba, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e55fc9c9f4ff65a4bb47c557ed275bba, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e55fc9c9f4ff65a4bb47c557ed275bba, type: 3}
+      propertyPath: m_Name
+      value: Breathing Idle
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects:
+    - {fileID: -8700617353114198275, guid: e55fc9c9f4ff65a4bb47c557ed275bba, type: 3}
+    - {fileID: 65702495048144492, guid: e55fc9c9f4ff65a4bb47c557ed275bba, type: 3}
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: e55fc9c9f4ff65a4bb47c557ed275bba, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1768399428}
+  m_SourcePrefab: {fileID: 100100000, guid: e55fc9c9f4ff65a4bb47c557ed275bba, type: 3}
 --- !u!1 &2110731045
 GameObject:
   m_ObjectHideFlags: 0
@@ -1725,3 +1819,4 @@ SceneRoots:
   - {fileID: 1366498148}
   - {fileID: 247890837}
   - {fileID: 861288042}
+  - {fileID: 1877947059}

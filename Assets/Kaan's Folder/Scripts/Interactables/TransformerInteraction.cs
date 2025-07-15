@@ -25,8 +25,9 @@ public class TransformerInteraction : MonoBehaviour, IInteractable
 
     public void Interact()
     {
-        if (Input.GetKey(KeyCode.F))
+        if (CanInteract && Input.GetKey(KeyCode.F))
         {
+            if(!IsSuccessed) MouseBasedMovement.Instance.SetCanMove(false);
             holdTimer += Time.deltaTime;
             InteractionUI.instance.SetProgressValue(holdTimer / holdDuration);
 
@@ -36,12 +37,19 @@ public class TransformerInteraction : MonoBehaviour, IInteractable
                 InteractSuccess();
             }
         }
-        else if (Input.GetKeyUp(KeyCode.F))
+        else if (!CanInteract || Input.GetKeyUp(KeyCode.F))
         {
-            // Parmak kaldýrýlýrsa sýfýrla
-            holdTimer = 0f;
-            InteractionUI.instance.progressBar.fillAmount = 0f;
+            ResetInteraction();
         }
+
+    }
+
+    private void ResetInteraction()
+    {
+        holdTimer = 0f;
+        InteractionUI.instance.progressBar.fillAmount = 0f;
+        InteractionUI.instance.SetProgressBarActive(false);
+
     }
 
     private void InteractSuccess()
@@ -49,6 +57,7 @@ public class TransformerInteraction : MonoBehaviour, IInteractable
         if (IsSuccessed)
         {
             Debug.Log("InteractionSuccess");
+            MouseBasedMovement.Instance.SetCanMove(true);
             InteractionUI.instance.SetProgressBarActive(!IsSuccessed);
         }
     }
@@ -66,6 +75,7 @@ public class TransformerInteraction : MonoBehaviour, IInteractable
             CanInteract = false;
             holdTimer = 0f;
             InteractionUI.instance.progressBar.fillAmount = 0f;
+            InteractionUI.instance.SetProgressBarActive(false);
         }
     }
 }
