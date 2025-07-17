@@ -13114,6 +13114,7 @@ Texture2D:
   m_PlatformBlob: 
   image data: 1
   _typelessdata: 00
+<<<<<<< HEAD
 =======
 <<<<<<< Updated upstream
   image data: 0
@@ -13124,6 +13125,8 @@ Texture2D:
   _typelessdata: 00
 >>>>>>> Stashed changes
 >>>>>>> toprak
+=======
+>>>>>>> busra
   m_StreamData:
     serializedVersion: 2
     offset: 0
