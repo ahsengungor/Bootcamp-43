@@ -3,15 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\assets\\toprak\\fries and seagull\\interior 01\\scripts\\utility\\yureipostprocessoridentifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|solutionrelative:assets\\toprak\\fries and seagull\\interior 01\\scripts\\utility\\yureipostprocessoridentifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|c:\\users\\k2ann00\\desktop\\boot-43\\bootcamp-43\\assets\\toprak\\fries and seagull\\interior 01\\scripts\\utility\\yureimanagerbrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|solutionrelative:assets\\toprak\\fries and seagull\\interior 01\\scripts\\utility\\yureimanagerbrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|c:\\users\\k2ann00\\desktop\\boot-43\\bootcamp-43\\assets\\toprak\\fries and seagull\\interior 01\\scripts\\setup\\brpsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|solutionrelative:assets\\toprak\\fries and seagull\\interior 01\\scripts\\setup\\brpsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|c:\\users\\k2ann00\\desktop\\boot-43\\bootcamp-43\\assets\\toprak\\fries and seagull\\interior 01\\scripts\\utility\\yureipostprocessoridentifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|solutionrelative:assets\\toprak\\fries and seagull\\interior 01\\scripts\\utility\\yureipostprocessoridentifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|c:\\users\\k2ann00\\desktop\\boot-43\\bootcamp-43\\assets\\ece\u0027s folder\\scripts\\frequencymatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\assets\\ece\u0027s folder\\scripts\\frequencymatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|solutionrelative:assets\\ece\u0027s folder\\scripts\\frequencymatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -50,11 +54,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 221,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "YureiManagerBRP.cs",
+              "DocumentMoniker": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Toprak\\Fries and Seagull\\Interior 01\\Scripts\\Utility\\YureiManagerBRP.cs",
+              "RelativeDocumentMoniker": "Assets\\Toprak\\Fries and Seagull\\Interior 01\\Scripts\\Utility\\YureiManagerBRP.cs",
+              "ToolTip": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Toprak\\Fries and Seagull\\Interior 01\\Scripts\\Utility\\YureiManagerBRP.cs",
+              "RelativeToolTip": "Assets\\Toprak\\Fries and Seagull\\Interior 01\\Scripts\\Utility\\YureiManagerBRP.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAQwF4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T14:37:25.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "BrpSetup.cs",
               "DocumentMoniker": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Toprak\\Fries and Seagull\\Interior 01\\Scripts\\Setup\\BrpSetup.cs",
               "RelativeDocumentMoniker": "Assets\\Toprak\\Fries and Seagull\\Interior 01\\Scripts\\Setup\\BrpSetup.cs",
@@ -67,20 +84,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "YureiPostProcessorIdentifier.cs",
               "DocumentMoniker": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Toprak\\Fries and Seagull\\Interior 01\\Scripts\\Utility\\YureiPostProcessorIdentifier.cs",
               "RelativeDocumentMoniker": "Assets\\Toprak\\Fries and Seagull\\Interior 01\\Scripts\\Utility\\YureiPostProcessorIdentifier.cs",
               "ToolTip": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Toprak\\Fries and Seagull\\Interior 01\\Scripts\\Utility\\YureiPostProcessorIdentifier.cs",
               "RelativeToolTip": "Assets\\Toprak\\Fries and Seagull\\Interior 01\\Scripts\\Utility\\YureiPostProcessorIdentifier.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-17T14:18:21.077Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "FrequencyMatcher.cs",
               "DocumentMoniker": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Ece\u0027s Folder\\Scripts\\FrequencyMatcher.cs",
               "RelativeDocumentMoniker": "Assets\\Ece\u0027s Folder\\Scripts\\FrequencyMatcher.cs",
@@ -88,12 +105,11 @@
               "RelativeToolTip": "Assets\\Ece\u0027s Folder\\Scripts\\FrequencyMatcher.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwA8AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T13:20:28.981Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T13:20:28.981Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "NPCPlayerInteractionState.cs",
               "DocumentMoniker": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Kaan\u0027s Folder\\Scripts\\State Machine\\NPCPlayerInteractionState.cs",
               "RelativeDocumentMoniker": "Assets\\Kaan\u0027s Folder\\Scripts\\State Machine\\NPCPlayerInteractionState.cs",
@@ -105,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "InteractSphere.cs",
               "DocumentMoniker": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Kaan\u0027s Folder\\Scripts\\Interactables\\InteractSphere.cs",
               "RelativeDocumentMoniker": "Assets\\Kaan\u0027s Folder\\Scripts\\Interactables\\InteractSphere.cs",
@@ -117,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "TransformerInteraction.cs",
               "DocumentMoniker": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Kaan\u0027s Folder\\Scripts\\Interactables\\TransformerInteraction.cs",
               "RelativeDocumentMoniker": "Assets\\Kaan\u0027s Folder\\Scripts\\Interactables\\TransformerInteraction.cs",
@@ -129,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "PlayerInteraction.cs",
               "DocumentMoniker": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Kaan\u0027s Folder\\Scripts\\Player\\Interaction\\PlayerInteraction.cs",
               "RelativeDocumentMoniker": "Assets\\Kaan\u0027s Folder\\Scripts\\Player\\Interaction\\PlayerInteraction.cs",
@@ -141,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "InteractionHandler.cs",
               "DocumentMoniker": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Kaan\u0027s Folder\\Scripts\\Interactables\\InteractionHandler.cs",
               "RelativeDocumentMoniker": "Assets\\Kaan\u0027s Folder\\Scripts\\Interactables\\InteractionHandler.cs",
@@ -153,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "IHoldableInteractable.cs",
               "DocumentMoniker": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Kaan\u0027s Folder\\Scripts\\Interactables\\IHoldableInteractable.cs",
               "RelativeDocumentMoniker": "Assets\\Kaan\u0027s Folder\\Scripts\\Interactables\\IHoldableInteractable.cs",
@@ -165,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "IInteractable.cs",
               "DocumentMoniker": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Kaan\u0027s Folder\\Scripts\\Player\\Interaction\\IInteractable.cs",
               "RelativeDocumentMoniker": "Assets\\Kaan\u0027s Folder\\Scripts\\Player\\Interaction\\IInteractable.cs",
