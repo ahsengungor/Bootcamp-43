@@ -1,21 +1,19 @@
-using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerInteraction : MonoBehaviour
+public class PlayerInteractor : MonoBehaviour
 {
-    public float interactRange = 2f;
-    [SerializeField] private List<IInteractable> nearby = new();
+    private InteractionHandler handler;
+    private IHoldableInteractable currentHoldable;
+
+    private void Start()
+    {
+        handler = GetComponent<InteractionHandler>();
+    }
 
     void Update()
     {
-        if (Input.GetKey(KeyCode.F))
-        {
-            IInteractable closest = GetClosestInteractable();
-            closest?.Interact();
-        }
+        IInteractable current = handler.GetClosestInteractable();
 
-        // UI için:
-        IInteractable current = GetClosestInteractable();
         if (current != null)
         {
             InteractionUI.Show(current.GetInteractionPrompt());
@@ -24,39 +22,24 @@ public class PlayerInteraction : MonoBehaviour
         {
             InteractionUI.Hide();
         }
-    }
 
-    IInteractable GetClosestInteractable()
-    {
-        IInteractable closest = null;
-        float minDist = float.MaxValue;
-
-        foreach (var obj in nearby)
+        if (Input.GetKey(KeyCode.F))
         {
-            float dist = Vector3.Distance(transform.position, obj.Transform.position);
-            if (dist < interactRange && dist < minDist)
+            if (current is IHoldableInteractable holdable)
             {
-                minDist = dist;
-                closest = obj;
+                currentHoldable = holdable;
+                holdable.HoldUpdate();
+            }
+            else
+            {
+                current?.Interact();
             }
         }
 
-        return closest;
-    }
-
-    private void OnTriggerEnter(Collider other)
-    {
-        if (other.TryGetComponent(out IInteractable i) && !nearby.Contains(i))
+        if (Input.GetKeyUp(KeyCode.F) && currentHoldable != null)
         {
-            nearby.Add(i);
-        }
-    }
-
-    private void OnTriggerExit(Collider other)
-    {
-        if (other.TryGetComponent(out IInteractable i))
-        {
-            nearby.Remove(i);
+            currentHoldable.HoldExit();
+            currentHoldable = null;
         }
     }
 }

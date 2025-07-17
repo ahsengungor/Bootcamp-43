@@ -2,7 +2,7 @@ using UnityEngine;
 
 public interface IInteractable
 {
+    string GetInteractionPrompt();
     void Interact();
-    string GetInteractionPrompt(); // UI için
-    Transform Transform { get; }   // Pozisyon eriþimi için
+    Transform Transform { get; }
 }

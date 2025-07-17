@@ -14,7 +14,7 @@ public class NPCPlayerInteractionState : INPCState
     {
         npc.agent.isStopped = true;
         npc.animator.SetBool("isWalking", false);
-
+        
         npc.DialogueController.LoadDialogue(npc.DialogueData);
        
     }

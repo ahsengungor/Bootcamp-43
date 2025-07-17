@@ -2,9 +2,9 @@ using UnityEngine;
 
 public class InteractSphere : MonoBehaviour, IInteractable
 {
-    public string promptMessage = "Sphere Interacted";
+    public string promptMessage = "Konuþmayý baþlat";
     private AudioSource _audioSource;
-    [SerializeField] private DialogueData testDialogueSequence;
+    [SerializeField] private DialogueData dialogue;
 
     public Transform Transform => transform;
 
@@ -13,14 +13,11 @@ public class InteractSphere : MonoBehaviour, IInteractable
         _audioSource = GetComponent<AudioSource>();
     }
 
-    public string GetInteractionPrompt()
-    {
-        return promptMessage;
-    }
+    public string GetInteractionPrompt() => promptMessage;
 
     public void Interact()
     {
         _audioSource.Play();
-        DialogueController.Instance.LoadDialogue(testDialogueSequence);
+        DialogueController.Instance.LoadDialogue(dialogue);
     }
 }

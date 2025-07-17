@@ -1,81 +1,57 @@
-using System;
 using UnityEngine;
-using UnityEngine.UIElements;
 
-public class TransformerInteraction : MonoBehaviour, IInteractable
+public class TransformerInteraction : MonoBehaviour, IHoldableInteractable
 {
     public Transform Transform => transform;
-    private bool CanInteract = false;
-    private bool IsSuccessed = false;
-    public string promptMessage = "'ye 3 Saniye Basýlý Tut";
-    public float holdDuration = 3.0f;
-    public float holdTimer = 0.0f;
-    public float fillAmount;
 
+    private float holdTimer;
+    private bool isDone = false;
+    private bool inRange = false;
 
-    public string GetInteractionPrompt()
+    public float holdDuration = 3f;
+    public string promptMessage = "3 saniye basýlý tut";
+
+    public string GetInteractionPrompt() => promptMessage;
+
+    public void Interact() { } // kullanýlmaz
+
+    public void HoldUpdate()
     {
-        return promptMessage;
-    }
-    private void Update()
-    {
-        if (IsSuccessed) InteractionUI.instance.SetProgressBarActive(false);
-    }
+        if (isDone || !inRange) return;
 
+        holdTimer += Time.deltaTime;
+        InteractionUI.instance.SetProgressBarActive(true);
+        InteractionUI.instance.SetProgressValue(holdTimer / holdDuration);
 
-    public void Interact()
-    {
-        if (CanInteract && Input.GetKey(KeyCode.F))
+        if (holdTimer >= holdDuration)
         {
-            if(!IsSuccessed) MouseBasedMovement.Instance.SetCanMove(false);
-            holdTimer += Time.deltaTime;
-            InteractionUI.instance.SetProgressValue(holdTimer / holdDuration);
-
-            if (holdTimer > holdDuration && !IsSuccessed)
-            {
-                IsSuccessed = true;
-                InteractSuccess();
-            }
+            isDone = true;
+            InteractionUI.instance.SetProgressBarActive(false);
+            Debug.Log("Þalter baþarýyla çalýþtý!");
         }
-        else if (!CanInteract || Input.GetKeyUp(KeyCode.F))
-        {
-            ResetInteraction();
-        }
-
     }
 
-    private void ResetInteraction()
+    public void HoldExit()
     {
+        if (isDone) return;
+
         holdTimer = 0f;
-        InteractionUI.instance.progressBar.fillAmount = 0f;
+        InteractionUI.instance.SetProgressValue(0f);
         InteractionUI.instance.SetProgressBarActive(false);
-
-    }
-
-    private void InteractSuccess()
-    {
-        if (IsSuccessed)
-        {
-            Debug.Log("InteractionSuccess");
-            MouseBasedMovement.Instance.SetCanMove(true);
-            InteractionUI.instance.SetProgressBarActive(!IsSuccessed);
-        }
     }
 
     private void OnTriggerEnter(Collider other)
     {
         if (other.CompareTag("Player"))
-            CanInteract = true;
+            inRange = true;
     }
 
     private void OnTriggerExit(Collider other)
     {
         if (other.CompareTag("Player"))
         {
-            CanInteract = false;
-            holdTimer = 0f;
-            InteractionUI.instance.progressBar.fillAmount = 0f;
-            InteractionUI.instance.SetProgressBarActive(false);
+            inRange = false;
+            HoldExit();
         }
     }
 }
