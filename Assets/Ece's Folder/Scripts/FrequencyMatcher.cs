@@ -112,6 +112,7 @@ public class FrequencyManager : MonoBehaviour
 
     public void OnCompleteButton()
     {
-        SceneManager.LoadScene("NextSceneName");
+        Debug.Log("Sahne Basarýlý, Coroutine kullanrak önce ses veya görüntü ile oyuncuya feedback vereceðiz sonra sahne geçiþi");
+        //SceneManager.LoadScene("NextSceneName");
     }
 }
