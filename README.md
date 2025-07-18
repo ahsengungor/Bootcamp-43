@@ -172,25 +172,25 @@ Sprint Review participants: Ahsen Büşra Nur Güngör, Kaan Avdan, Ece Koçak, 
 
    | ![Dev Gif or Image](images/image-20.gif) | ![Dev Gif or Image](images/image-21.gif) |
    |:---------------------------------:|:-----------------------------------:|
-   | Main Menu Design                        | Minigame                     |
+   |                         |                      |
 
 * 
 
    | ![Dev Gif or Image](images/image-22.gif) | ![Dev Gif or Image](images/image-23.gif) |
    |:---------------------------------:|:-----------------------------------:|
-   | Interaction System                        | Camera Controls                         |
+   |                         |                         |
 
 * The basic logic scheme of the game has been created.
 
    | ![Dev Gif or Image](images/image-24.png) |
    |:---------------------------------:|
-   | Logic Scheme                       |
+   |                        |
 
 * Work has begun on new mini games.
 
    | ![Dev Gif or Image](images/image-25.png) |
    |:---------------------------------:|
-   | New Minigame Progress                        |
+   |                         |
 
 
 
