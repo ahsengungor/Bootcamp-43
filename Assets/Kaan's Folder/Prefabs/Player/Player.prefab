@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 536564753802851855}
   - component: {fileID: 4956669196073980422}
   - component: {fileID: 626415826259313411}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Neural Area
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -101,6 +101,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6e2bca00f7c08b3499129d3e04beb3b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  auraRenderer: {fileID: 536564753802851855}
+  neuralArea: {fileID: 626415826259313411}
+  targetTag: TargetNPC
+  fadeSpeed: 0.5
 --- !u!135 &626415826259313411
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -120,7 +124,7 @@ SphereCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Radius: 6
+  m_Radius: 3
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &3720031448980608600
 GameObject:
@@ -164,10 +168,12 @@ GameObject:
   m_Component:
   - component: {fileID: 7016776943774537854}
   - component: {fileID: 8878968883788197797}
+  - component: {fileID: 7221894146634524865}
   - component: {fileID: 6070777353966997447}
   - component: {fileID: 8451348258642312573}
   - component: {fileID: 7220763404623215417}
   - component: {fileID: 1658165450899733881}
+  - component: {fileID: 8254700494305596318}
   - component: {fileID: 8736781750620785051}
   - component: {fileID: 8446946291202666702}
   - component: {fileID: 6834038857721784568}
@@ -204,6 +210,19 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6526286207513721894}
   m_Mesh: {fileID: 10208, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &7221894146634524865
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6526286207513721894}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: def5f7f21857f79409dfd8c4a8fec0ca, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  interactRange: 2
 --- !u!23 &6070777353966997447
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -304,7 +323,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a1014be685e222746b167f0ba1d63c7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  interactRange: 3.5
+--- !u!114 &8254700494305596318
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6526286207513721894}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: def5f7f21857f79409dfd8c4a8fec0ca, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  interactRange: 2
 --- !u!195 &8736781750620785051
 NavMeshAgent:
   m_ObjectHideFlags: 0

@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Door : MonoBehaviour, IInteractable
 {
@@ -16,6 +17,7 @@ public class Door : MonoBehaviour, IInteractable
     {
         Debug.Log("Kapý açýldý!");
         _audioSource.Play();
+        SceneManager.LoadScene("NPC_Testing");
     }
 
     public string GetInteractionPrompt()

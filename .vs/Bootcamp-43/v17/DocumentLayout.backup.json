@@ -3,16 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\",
   "Documents": [
     {
-<<<<<<< HEAD
-      "AbsoluteMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\assets\\toprak\\fries and seagull\\interior 01\\scripts\\utility\\yureipostprocessoridentifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|solutionrelative:assets\\toprak\\fries and seagull\\interior 01\\scripts\\utility\\yureipostprocessoridentifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|c:\\users\\k2ann00\\desktop\\boot-43\\bootcamp-43\\assets\\toprak\\kabungus\\householditems\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|solutionrelative:assets\\toprak\\kabungus\\householditems\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|c:\\users\\k2ann00\\desktop\\boot-43\\bootcamp-43\\assets\\toprak\\fries and seagull\\interior 01\\scripts\\utility\\yureimanagerbrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|solutionrelative:assets\\toprak\\fries and seagull\\interior 01\\scripts\\utility\\yureimanagerbrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|c:\\users\\k2ann00\\desktop\\boot-43\\bootcamp-43\\assets\\toprak\\fries and seagull\\interior 01\\scripts\\setup\\brpsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\assets\\toprak\\fries and seagull\\interior 01\\scripts\\utility\\yureipostprocessoridentifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|solutionrelative:assets\\toprak\\fries and seagull\\interior 01\\scripts\\utility\\yureipostprocessoridentifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\assets\\toprak\\fries and seagull\\interior 01\\scripts\\setup\\brpsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|solutionrelative:assets\\toprak\\fries and seagull\\interior 01\\scripts\\setup\\brpsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -44,36 +47,6 @@
       "RelativeMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|solutionrelative:Assets\\Kaan\u0027s Folder\\Scripts\\Interactables\\IHoldableInteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-=======
-      "AbsoluteMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|c:\\users\\k2ann00\\desktop\\boot-43\\bootcamp-43\\assets\\ece\u0027s folder\\scripts\\frequencymatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|solutionrelative:assets\\ece\u0027s folder\\scripts\\frequencymatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Kaan\u0027s Folder\\Scripts\\State Machine\\NPCPlayerInteractionState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|solutionrelative:Assets\\Kaan\u0027s Folder\\Scripts\\State Machine\\NPCPlayerInteractionState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Kaan\u0027s Folder\\Scripts\\Interactables\\InteractSphere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|solutionrelative:Assets\\Kaan\u0027s Folder\\Scripts\\Interactables\\InteractSphere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Kaan\u0027s Folder\\Scripts\\Interactables\\TransformerInteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|solutionrelative:Assets\\Kaan\u0027s Folder\\Scripts\\Interactables\\TransformerInteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Kaan\u0027s Folder\\Scripts\\Player\\Interaction\\PlayerInteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|solutionrelative:Assets\\Kaan\u0027s Folder\\Scripts\\Player\\Interaction\\PlayerInteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Kaan\u0027s Folder\\Scripts\\Interactables\\InteractionHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|solutionrelative:Assets\\Kaan\u0027s Folder\\Scripts\\Interactables\\InteractionHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Kaan\u0027s Folder\\Scripts\\Interactables\\IHoldableInteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|solutionrelative:Assets\\Kaan\u0027s Folder\\Scripts\\Interactables\\IHoldableInteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
->>>>>>> busra
       "AbsoluteMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Kaan\u0027s Folder\\Scripts\\Player\\Interaction\\IInteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|solutionrelative:Assets\\Kaan\u0027s Folder\\Scripts\\Player\\Interaction\\IInteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -85,9 +58,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 221,
-<<<<<<< HEAD
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Toprak\\Kabungus\\HouseholdItems\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Toprak\\Kabungus\\HouseholdItems\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Toprak\\Kabungus\\HouseholdItems\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Toprak\\Kabungus\\HouseholdItems\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T13:02:53.59Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -96,14 +81,14 @@
               "RelativeDocumentMoniker": "Assets\\Toprak\\Fries and Seagull\\Interior 01\\Scripts\\Utility\\YureiManagerBRP.cs",
               "ToolTip": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Toprak\\Fries and Seagull\\Interior 01\\Scripts\\Utility\\YureiManagerBRP.cs",
               "RelativeToolTip": "Assets\\Toprak\\Fries and Seagull\\Interior 01\\Scripts\\Utility\\YureiManagerBRP.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAQwF4AAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAQwEgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-17T14:37:25.941Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "BrpSetup.cs",
               "DocumentMoniker": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Toprak\\Fries and Seagull\\Interior 01\\Scripts\\Setup\\BrpSetup.cs",
               "RelativeDocumentMoniker": "Assets\\Toprak\\Fries and Seagull\\Interior 01\\Scripts\\Setup\\BrpSetup.cs",
@@ -111,12 +96,11 @@
               "RelativeToolTip": "Assets\\Toprak\\Fries and Seagull\\Interior 01\\Scripts\\Setup\\BrpSetup.cs",
               "ViewState": "AgIAAD4AAAAAAAAAAADwv1sAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T14:21:11.548Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T14:21:11.548Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "YureiPostProcessorIdentifier.cs",
               "DocumentMoniker": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Toprak\\Fries and Seagull\\Interior 01\\Scripts\\Utility\\YureiPostProcessorIdentifier.cs",
               "RelativeDocumentMoniker": "Assets\\Toprak\\Fries and Seagull\\Interior 01\\Scripts\\Utility\\YureiPostProcessorIdentifier.cs",
@@ -124,42 +108,23 @@
               "RelativeToolTip": "Assets\\Toprak\\Fries and Seagull\\Interior 01\\Scripts\\Utility\\YureiPostProcessorIdentifier.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T14:18:21.077Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T14:18:21.077Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-=======
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
->>>>>>> busra
+              "DocumentIndex": 4,
               "Title": "FrequencyMatcher.cs",
               "DocumentMoniker": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Ece\u0027s Folder\\Scripts\\FrequencyMatcher.cs",
               "RelativeDocumentMoniker": "Assets\\Ece\u0027s Folder\\Scripts\\FrequencyMatcher.cs",
               "ToolTip": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Ece\u0027s Folder\\Scripts\\FrequencyMatcher.cs",
               "RelativeToolTip": "Assets\\Ece\u0027s Folder\\Scripts\\FrequencyMatcher.cs",
-<<<<<<< HEAD
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwA8AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-17T13:20:28.981Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-=======
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T13:20:28.981Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
->>>>>>> busra
+              "DocumentIndex": 5,
               "Title": "NPCPlayerInteractionState.cs",
               "DocumentMoniker": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Kaan\u0027s Folder\\Scripts\\State Machine\\NPCPlayerInteractionState.cs",
               "RelativeDocumentMoniker": "Assets\\Kaan\u0027s Folder\\Scripts\\State Machine\\NPCPlayerInteractionState.cs",
@@ -171,11 +136,7 @@
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 5,
-=======
-              "DocumentIndex": 2,
->>>>>>> busra
+              "DocumentIndex": 6,
               "Title": "InteractSphere.cs",
               "DocumentMoniker": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Kaan\u0027s Folder\\Scripts\\Interactables\\InteractSphere.cs",
               "RelativeDocumentMoniker": "Assets\\Kaan\u0027s Folder\\Scripts\\Interactables\\InteractSphere.cs",
@@ -187,11 +148,7 @@
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 6,
-=======
-              "DocumentIndex": 3,
->>>>>>> busra
+              "DocumentIndex": 7,
               "Title": "TransformerInteraction.cs",
               "DocumentMoniker": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Kaan\u0027s Folder\\Scripts\\Interactables\\TransformerInteraction.cs",
               "RelativeDocumentMoniker": "Assets\\Kaan\u0027s Folder\\Scripts\\Interactables\\TransformerInteraction.cs",
@@ -203,11 +160,7 @@
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 7,
-=======
-              "DocumentIndex": 4,
->>>>>>> busra
+              "DocumentIndex": 8,
               "Title": "PlayerInteraction.cs",
               "DocumentMoniker": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Kaan\u0027s Folder\\Scripts\\Player\\Interaction\\PlayerInteraction.cs",
               "RelativeDocumentMoniker": "Assets\\Kaan\u0027s Folder\\Scripts\\Player\\Interaction\\PlayerInteraction.cs",
@@ -216,35 +169,10 @@
               "ViewState": "AgIAAAoAAAAAAAAAAAAgwAQAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-16T10:38:27.818Z"
-<<<<<<< HEAD
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "InteractionHandler.cs",
-              "DocumentMoniker": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Kaan\u0027s Folder\\Scripts\\Interactables\\InteractionHandler.cs",
-              "RelativeDocumentMoniker": "Assets\\Kaan\u0027s Folder\\Scripts\\Interactables\\InteractionHandler.cs",
-              "ToolTip": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Kaan\u0027s Folder\\Scripts\\Interactables\\InteractionHandler.cs",
-              "RelativeToolTip": "Assets\\Kaan\u0027s Folder\\Scripts\\Interactables\\InteractionHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T10:37:56.619Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "IHoldableInteractable.cs",
-              "DocumentMoniker": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Kaan\u0027s Folder\\Scripts\\Interactables\\IHoldableInteractable.cs",
-              "RelativeDocumentMoniker": "Assets\\Kaan\u0027s Folder\\Scripts\\Interactables\\IHoldableInteractable.cs",
-              "ToolTip": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Kaan\u0027s Folder\\Scripts\\Interactables\\IHoldableInteractable.cs",
-              "RelativeToolTip": "Assets\\Kaan\u0027s Folder\\Scripts\\Interactables\\IHoldableInteractable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAA6wAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-=======
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "InteractionHandler.cs",
               "DocumentMoniker": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Kaan\u0027s Folder\\Scripts\\Interactables\\InteractionHandler.cs",
               "RelativeDocumentMoniker": "Assets\\Kaan\u0027s Folder\\Scripts\\Interactables\\InteractionHandler.cs",
@@ -256,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "IHoldableInteractable.cs",
               "DocumentMoniker": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Kaan\u0027s Folder\\Scripts\\Interactables\\IHoldableInteractable.cs",
               "RelativeDocumentMoniker": "Assets\\Kaan\u0027s Folder\\Scripts\\Interactables\\IHoldableInteractable.cs",
@@ -264,16 +192,11 @@
               "RelativeToolTip": "Assets\\Kaan\u0027s Folder\\Scripts\\Interactables\\IHoldableInteractable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAA6wAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
->>>>>>> busra
               "WhenOpened": "2025-07-16T10:37:35.516Z"
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 10,
-=======
-              "DocumentIndex": 7,
->>>>>>> busra
+              "DocumentIndex": 11,
               "Title": "IInteractable.cs",
               "DocumentMoniker": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Kaan\u0027s Folder\\Scripts\\Player\\Interaction\\IInteractable.cs",
               "RelativeDocumentMoniker": "Assets\\Kaan\u0027s Folder\\Scripts\\Player\\Interaction\\IInteractable.cs",
