@@ -129,3 +129,81 @@ Sprint Review participants: Ahsen Büşra Nur Güngör, Kaan Avdan, Ece Koçak, 
 - The character's mechanics were coded.
 - The team discussed the next steps, and the tasks of completing the map and completing the cinematic images to be used at the beginning were added to the to-do list of the second sprint.
 - It was decided that communication between team members would be increased in future sprints.
+
+
+---
+# **SPRINT 2**
+
+   | ![Sprint 2](images/image-15.png) |
+   |:---------------------------------:|
+
+- 
+
+### **Sprint 2 Notes**
+- <br>
+
+  **To Do List:**
+-  
+
+### **Sprint 2 Board**
+   | ![Sprint Board 1](images/image-16.png) |
+   |:---------------------------------:|
+   | Sprint 2 board                         |
+
+### **Daily Scrum**
+
+* Daily scrum was held via WhatsApp and Google Meet. Google Meet meeting notes can be found on Trello as cards in the "Meeting Logs" list.
+
+   | ![WhatsApp](images/image-17.png) |
+   |:---------------------------------:|
+   | Initially, communication was established via WhatsApp, and WhatsApp was preferred for daily communication                         |
+
+   | ![Google Meet](images/image-18.png) |
+   |:---------------------------------:|
+   | Google Meet was preferred for planning and collaborative work.                         |
+
+   | ![Trello](images/image-19.png) |
+   |:---------------------------------:|
+   | Recordings of Google Meet meetings can be found on Trello as cards in the "Meeting Logs" list                         |
+
+ 
+### **Development Progress**
+* 
+
+   | ![Dev Gif or Image](images/image-20.gif) | ![Dev Gif or Image](images/image-21.gif) |
+   |:---------------------------------:|:-----------------------------------:|
+   | Main Menu Design                        | Minigame                     |
+
+* 
+
+   | ![Dev Gif or Image](images/image-22.gif) | ![Dev Gif or Image](images/image-23.gif) |
+   |:---------------------------------:|:-----------------------------------:|
+   | Interaction System                        | Camera Controls                         |
+
+* The basic logic scheme of the game has been created.
+
+   | ![Dev Gif or Image](images/image-24.png) |
+   |:---------------------------------:|
+   | Logic Scheme                       |
+
+* Work has begun on new mini games.
+
+   | ![Dev Gif or Image](images/image-25.png) |
+   |:---------------------------------:|
+   | New Minigame Progress                        |
+
+
+
+ ### **Sprint Review**
+- At the end of Sprint 1, the team met and the Sprint was reviewed. The intended tasks have all been completed.
+Sprint Review participants: Ahsen Büşra Nur Güngör, Kaan Avdan, Ece Koçak, Mustafa Toprak Sezgin, Eşref Bakar
+
+
+
+
+ ### **Sprint Retrospective**
+- The score for Sprint 1 is 10.
+- It was decided that the map would be completed in Sprint 2.
+- The character's mechanics were coded.
+- The team discussed the next steps, and the tasks of completing the map and completing the cinematic images to be used at the beginning were added to the to-do list of the second sprint.
+- It was decided that communication between team members would be increased in future sprints.
