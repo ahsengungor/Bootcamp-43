@@ -137,7 +137,7 @@ Sprint Review participants: Ahsen Büşra Nur Güngör, Kaan Avdan, Ece Koçak, 
    | ![Sprint 2](images/image-15.png) |
    |:---------------------------------:|
 
-- 
+- The number of points to be completed for the second Sprint was determined as 10, and the target score was reached by obtaining 10 points. Each task in the was considered as 1 point.
 
 ### **Sprint 2 Notes**
 - <br>
@@ -146,7 +146,7 @@ Sprint Review participants: Ahsen Büşra Nur Güngör, Kaan Avdan, Ece Koçak, 
 -  
 
 ### **Sprint 2 Board**
-   | ![Sprint Board 1](images/image-16.png) |
+   | ![Sprint Board 2](images/image-16.png) |
    |:---------------------------------:|
    | Sprint 2 board                         |
 
@@ -168,17 +168,17 @@ Sprint Review participants: Ahsen Büşra Nur Güngör, Kaan Avdan, Ece Koçak, 
 
  
 ### **Development Progress**
-* 
+* The main character's enemy detection and interaction system has been developed. Prototypes for the extramental stage have been prepared.
 
    | ![Dev Gif or Image](images/image-20.gif) | ![Dev Gif or Image](images/image-21.gif) |
    |:---------------------------------:|:-----------------------------------:|
-   |                         |                      |
+   | Target detection system                         | Extramental stage prototype                      |
 
-* 
+* The animation and interaction system for the intramental stage has been coded. The intramental stage level design has been completed.
 
    | ![Dev Gif or Image](images/image-22.gif) | ![Dev Gif or Image](images/image-23.gif) |
    |:---------------------------------:|:-----------------------------------:|
-   |                         |                         |
+   | Intramental animation and interaction testing                         | Intramental level design                          |
 
 * The basic logic scheme of the game has been created.
 
