@@ -143,7 +143,11 @@ Sprint Review participants: Ahsen Büşra Nur Güngör, Kaan Avdan, Ece Koçak, 
 - <br>
 
   **To Do List:**
--  
+- Coding of target detection and randomization systems.
+- Intramental level design.
+- Designing the main character and integrating movement mechanisms into this character.
+- Prototyping of extramental level design.
+   
 
 ### **Sprint 2 Board**
    | ![Sprint Board 2](images/image-16.png) |
