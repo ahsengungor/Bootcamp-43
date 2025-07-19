@@ -193,11 +193,17 @@ Sprint Review participants: Ahsen Büşra Nur Güngör, Kaan Avdan, Ece Koçak, 
    |:---------------------------------:|
    | 4th mini game                      |
 
-* The main character design has been done.
+* The main character sketch prepared.
 
    | ![Dev Gif or Image](images/image-25.png) |
    |:---------------------------------:|
-   | The main character                        |
+   | The main character sketch                       |
+
+* The main character modelling has been done.
+
+   | ![Dev Gif or Image](images/image-26.png) |
+   |:---------------------------------:|
+   | The main character modelling                       |
 
 
 
