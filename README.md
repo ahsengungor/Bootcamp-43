@@ -184,17 +184,17 @@ Sprint Review participants: Ahsen Büşra Nur Güngör, Kaan Avdan, Ece Koçak, 
    |:---------------------------------:|:-----------------------------------:|
    | Intramental animation and interaction testing                         | Intramental level design                          |
 
-* The basic logic scheme of the game has been created.
+* The fourth mini game has been completed.
 
    | ![Dev Gif or Image](images/image-24.png) |
    |:---------------------------------:|
-   |                        |
+   | 4th mini game                      |
 
-* Work has begun on new mini games.
+* The main character design has been done.
 
    | ![Dev Gif or Image](images/image-25.png) |
    |:---------------------------------:|
-   |                         |
+   | The main character                        |
 
 
 
