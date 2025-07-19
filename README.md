@@ -140,7 +140,7 @@ Sprint Review participants: Ahsen Büşra Nur Güngör, Kaan Avdan, Ece Koçak, 
 -Score completion logic: The number of points to be completed for the second Sprint was determined as 10, and the target score was reached by obtaining 10 points. Scoring was done according to the workload of the tasks.
 
 ### **Sprint 2 Notes**
-- At the beginning of the second sprint the team has discussed which tasks will be completed in the second sprint.<br>
+- At the beginning of the second sprint the team has discussed which tasks will be completed in the second sprint.Tasks are distributed so as not to exceed the estimated number of points per sprint.<br>
 
   **To Do List:**
 - Coding of target detection and randomization systems.
