@@ -219,5 +219,6 @@ Sprint Review participants: Ahsen Büşra Nur Güngör, Kaan Avdan, Ece Koçak, 
 
 
  ### **Sprint Retrospective**
+- The score achieved at the end of Sprint 2 was 10/10.
 - The team is expected to improve overall performance in the next sprint.
 - It was agreed to increase communication frequency compared to the previous sprint to ensure better coordination.
