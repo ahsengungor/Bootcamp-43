@@ -137,7 +137,7 @@ Sprint Review participants: Ahsen Büşra Nur Güngör, Kaan Avdan, Ece Koçak, 
    | ![Sprint 2](images/image-15.png) |
    |:---------------------------------:|
 
-- Score completion logic: The number of points to be completed for the second Sprint was determined as 10, and the target score was reached by obtaining 10 points. Scoring was done according to the workload of the tasks.
+-Score completion logic: The number of points to be completed for the second Sprint was determined as 10, and the target score was reached by obtaining 10 points. Scoring was done according to the workload of the tasks.
 
 ### **Sprint 2 Notes**
 - <br>
