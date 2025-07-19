@@ -202,7 +202,7 @@ Sprint Review participants: Ahsen Büşra Nur Güngör, Kaan Avdan, Ece Koçak, 
 
 
  ### **Sprint Review**
-- It became clear that performance needed to be improved within the team. The levels designed during the sprint were played by the entire team, and points for improvement were discussed before the third sprint.
+- 
 Sprint Review participants: Ahsen Büşra Nur Güngör, Kaan Avdan, Ece Koçak, Mustafa Toprak Sezgin, Eşref Bakar
 
 
