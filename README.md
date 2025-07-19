@@ -202,11 +202,16 @@ Sprint Review participants: Ahsen Büşra Nur Güngör, Kaan Avdan, Ece Koçak, 
 
 
  ### **Sprint Review**
-- 
+- The intended tasks have all been completed.
+- The levels designed during the sprint were played by the entire team, and points for improvement were discussed before the third sprint.
+- Main character design was finalized.
+- It was decided to adjust the difficulty levels in the mini-games.
+  
 Sprint Review participants: Ahsen Büşra Nur Güngör, Kaan Avdan, Ece Koçak, Mustafa Toprak Sezgin, Eşref Bakar
 
 
 
 
  ### **Sprint Retrospective**
-- 
+- The team is expected to improve overall performance in the next sprint.
+- It was agreed to increase communication frequency compared to the previous sprint to ensure better coordination.
