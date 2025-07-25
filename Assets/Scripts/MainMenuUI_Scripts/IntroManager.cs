@@ -144,10 +144,6 @@ public class IntroManager : MonoBehaviour
         cg.alpha = end;
     }
 
-    public void OnContinueClicked()
-    {
-        SceneManager.LoadScene("MainScene");
-    }
 }
 
 

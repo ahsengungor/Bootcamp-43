@@ -2052,7 +2052,7 @@ MonoBehaviour:
   clickVfxPrefab: {fileID: 447409866740539227, guid: da34d66431c8cd04aa98411a543a83bf, type: 3}
   clickableLayers:
     serializedVersion: 2
-    m_Bits: 55
+    m_Bits: 4294967295
 --- !u!95 &9002488484531461836
 Animator:
   serializedVersion: 7
