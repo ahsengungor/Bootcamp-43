@@ -7,6 +7,8 @@ public class LoadingScreen : MonoBehaviour
 {
     public static LoadingScreen Instance;
 
+   
+
     public GameObject LoadingScreenPrefab;
     public Image LoadingBarFill;
     void Awake()

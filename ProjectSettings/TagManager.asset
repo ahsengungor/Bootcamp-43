@@ -7,6 +7,7 @@ TagManager:
   - TargetNPC
   - Ground
   - Unclickable
+  - Chief
   layers:
   - Default
   - TransparentFX
@@ -14,7 +15,7 @@ TagManager:
   - Player
   - Water
   - UI
-  - 
+  - Ground
   - 
   - InvisibleWall
   - Interactable
