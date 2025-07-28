@@ -3,19 +3,35 @@
   "WorkspaceRootPath": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|c:\\users\\k2ann00\\desktop\\boot-43\\bootcamp-43\\assets\\scripts\\essential_scripts\\player_scripts\\homelamplamp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\essential_scripts\\player_scripts\\homelamplamp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|c:\\users\\k2ann00\\desktop\\boot-43\\bootcamp-43\\assets\\scripts\\essential_scripts\\player_scripts\\lookatplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\essential_scripts\\player_scripts\\lookatplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\assets\\scripts\\restoran_scripts\\hoverandrotateupdated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\restoran_scripts\\hoverandrotateupdated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Library\\PackageCache\\com.unity.render-pipelines.universal@a19b2562c494\\Runtime\\Passes\\AdditionalLightsShadowCasterPass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal@a19b2562c494\\Runtime\\Passes\\AdditionalLightsShadowCasterPass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\assets\\scripts\\mainmenuui_scripts\\intromanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenuui_scripts\\intromanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|c:\\users\\k2ann00\\desktop\\boot-43\\bootcamp-43\\assets\\scripts\\essential_scripts\\interactables_scripts\\transformerinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\assets\\scripts\\essential_scripts\\interactables_scripts\\transformerinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\essential_scripts\\interactables_scripts\\transformerinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|c:\\users\\k2ann00\\desktop\\boot-43\\bootcamp-43\\assets\\scripts\\essential_scripts\\dialogue_scripts\\dialoguecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\assets\\scripts\\essential_scripts\\dialogue_scripts\\dialoguecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\essential_scripts\\dialogue_scripts\\dialoguecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|c:\\users\\k2ann00\\desktop\\boot-43\\bootcamp-43\\assets\\scripts\\essential_scripts\\player_scripts\\movement\\mousebasedmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\assets\\scripts\\essential_scripts\\player_scripts\\movement\\mousebasedmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\essential_scripts\\player_scripts\\movement\\mousebasedmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -23,19 +39,19 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal@a19b2562c494\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|c:\\users\\k2ann00\\desktop\\boot-43\\bootcamp-43\\assets\\scripts\\essential_scripts\\invisiblewalls_scripts\\fadeobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\assets\\scripts\\essential_scripts\\invisiblewalls_scripts\\fadeobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\essential_scripts\\invisiblewalls_scripts\\fadeobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|c:\\users\\k2ann00\\desktop\\boot-43\\bootcamp-43\\assets\\scripts\\essential_scripts\\invisiblewalls_scripts\\obstacletransparency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\assets\\scripts\\essential_scripts\\invisiblewalls_scripts\\obstacletransparency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\essential_scripts\\invisiblewalls_scripts\\obstacletransparency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|c:\\users\\k2ann00\\desktop\\boot-43\\bootcamp-43\\assets\\scripts\\essential_scripts\\player_scripts\\movement\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\assets\\scripts\\essential_scripts\\player_scripts\\movement\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\essential_scripts\\player_scripts\\movement\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|c:\\users\\k2ann00\\desktop\\boot-43\\bootcamp-43\\assets\\scripts\\essential_scripts\\scenemanagment_scripts\\loadingscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\assets\\scripts\\essential_scripts\\scenemanagment_scripts\\loadingscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{984893F6-8CA0-21D7-BAB8-90868B5CCDB5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\essential_scripts\\scenemanagment_scripts\\loadingscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -50,11 +66,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeLampLamp.cs",
+              "DocumentMoniker": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Scripts\\Essential_Scripts\\Player_Scripts\\HomeLampLamp.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Essential_Scripts\\Player_Scripts\\HomeLampLamp.cs",
+              "ToolTip": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Scripts\\Essential_Scripts\\Player_Scripts\\HomeLampLamp.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Essential_Scripts\\Player_Scripts\\HomeLampLamp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T15:12:34.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "HoverAndRotateUpdated.cs",
+              "DocumentMoniker": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Scripts\\Restoran_Scripts\\HoverAndRotateUpdated.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Restoran_Scripts\\HoverAndRotateUpdated.cs",
+              "ToolTip": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Scripts\\Restoran_Scripts\\HoverAndRotateUpdated.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Restoran_Scripts\\HoverAndRotateUpdated.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T15:05:29.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LookAtPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Scripts\\Essential_Scripts\\Player_Scripts\\LookAtPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Essential_Scripts\\Player_Scripts\\LookAtPlayer.cs",
+              "ToolTip": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Scripts\\Essential_Scripts\\Player_Scripts\\LookAtPlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Essential_Scripts\\Player_Scripts\\LookAtPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T12:02:52.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdditionalLightsShadowCasterPass.cs",
+              "DocumentMoniker": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Library\\PackageCache\\com.unity.render-pipelines.universal@a19b2562c494\\Runtime\\Passes\\AdditionalLightsShadowCasterPass.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@a19b2562c494\\Runtime\\Passes\\AdditionalLightsShadowCasterPass.cs",
+              "ToolTip": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Library\\PackageCache\\com.unity.render-pipelines.universal@a19b2562c494\\Runtime\\Passes\\AdditionalLightsShadowCasterPass.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@a19b2562c494\\Runtime\\Passes\\AdditionalLightsShadowCasterPass.cs",
+              "ViewState": "AgIAAKABAAAAAAAAAAAMwKsBAABXAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T11:37:58.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "DialogueController.cs",
               "DocumentMoniker": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Scripts\\Essential_Scripts\\Dialogue_Scripts\\DialogueController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Essential_Scripts\\Dialogue_Scripts\\DialogueController.cs",
@@ -62,12 +129,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Essential_Scripts\\Dialogue_Scripts\\DialogueController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T20:05:12.964Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-26T20:05:12.964Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "TransformerInteraction.cs",
               "DocumentMoniker": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Scripts\\Essential_Scripts\\Interactables_Scripts\\TransformerInteraction.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Essential_Scripts\\Interactables_Scripts\\TransformerInteraction.cs",
@@ -75,12 +141,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Essential_Scripts\\Interactables_Scripts\\TransformerInteraction.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T20:00:58.62Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-26T20:00:58.62Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "MouseBasedMovement.cs",
               "DocumentMoniker": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Scripts\\Essential_Scripts\\Player_Scripts\\Movement\\MouseBasedMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Essential_Scripts\\Player_Scripts\\Movement\\MouseBasedMovement.cs",
@@ -88,12 +153,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Essential_Scripts\\Player_Scripts\\Movement\\MouseBasedMovement.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAowA0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T19:53:19.084Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-26T19:53:19.084Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Lit.shader",
               "DocumentMoniker": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Library\\PackageCache\\com.unity.render-pipelines.universal@a19b2562c494\\Shaders\\Lit.shader",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@a19b2562c494\\Shaders\\Lit.shader",
@@ -106,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "ObstacleTransparency.cs",
               "DocumentMoniker": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Scripts\\Essential_Scripts\\InvisibleWalls_Scripts\\ObstacleTransparency.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Essential_Scripts\\InvisibleWalls_Scripts\\ObstacleTransparency.cs",
@@ -114,12 +178,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Essential_Scripts\\InvisibleWalls_Scripts\\ObstacleTransparency.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwBIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T19:07:06.953Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-26T19:07:06.953Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "FadeObject.cs",
               "DocumentMoniker": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Scripts\\Essential_Scripts\\InvisibleWalls_Scripts\\FadeObject.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Essential_Scripts\\InvisibleWalls_Scripts\\FadeObject.cs",
@@ -127,12 +190,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Essential_Scripts\\InvisibleWalls_Scripts\\FadeObject.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T19:06:57.856Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-26T19:06:57.856Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Scripts\\Essential_Scripts\\Player_Scripts\\Movement\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Essential_Scripts\\Player_Scripts\\Movement\\PlayerController.cs",
@@ -140,12 +202,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Essential_Scripts\\Player_Scripts\\Movement\\PlayerController.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwBYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T19:00:46.389Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-26T19:00:46.389Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "DoorTrigger.cs",
               "DocumentMoniker": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Scripts\\Restoran_Scripts\\DoorTrigger.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Restoran_Scripts\\DoorTrigger.cs",
@@ -157,7 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "IntroManager.cs",
               "DocumentMoniker": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Scripts\\MainMenuUI_Scripts\\IntroManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenuUI_Scripts\\IntroManager.cs",
@@ -165,12 +226,11 @@
               "RelativeToolTip": "Assets\\Scripts\\MainMenuUI_Scripts\\IntroManager.cs",
               "ViewState": "AgIAAFEAAAAAAAAAAAAowEkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T18:06:24.722Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T18:06:24.722Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "LoadingScreen.cs",
               "DocumentMoniker": "C:\\Users\\k2ann00\\Desktop\\Boot-43\\Bootcamp-43\\Assets\\Scripts\\Essential_Scripts\\SceneManagment_Scripts\\LoadingScreen.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Essential_Scripts\\SceneManagment_Scripts\\LoadingScreen.cs",
@@ -178,8 +238,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Essential_Scripts\\SceneManagment_Scripts\\LoadingScreen.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T17:40:49.567Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T17:40:49.567Z"
             }
           ]
         }
