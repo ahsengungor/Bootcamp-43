@@ -3,7 +3,6 @@ using UnityEngine;
 using TMPro;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
-using JetBrains.Annotations;
 
 public class IntroManager : MonoBehaviour
 {
@@ -23,9 +22,6 @@ public class IntroManager : MonoBehaviour
     private TextMeshProUGUI[] controlsTexts;
     private CanvasGroup[] controlsTextsGroups;
     private CanvasGroup continueButtonGroup;
-
-    private float globalTime = 0f;
-
 
     void Start()
     {
@@ -71,13 +67,8 @@ public class IntroManager : MonoBehaviour
         StartCoroutine(TypeSentence());
     }
 
-
-
     IEnumerator TypeSentence()
     {
-        float messageStart = globalTime;
-        float localStart = Time.time;
-
         string currentLine = "";
         foreach (char letter in messages[messageIndex])
         {
@@ -86,18 +77,10 @@ public class IntroManager : MonoBehaviour
             yield return new WaitForSeconds(typingSpeed);
         }
 
-        float localEnd = Time.time;
-        float duration = localEnd - localStart;
-        float messageEnd = messageStart + duration;
-
-        Debug.Log($"Mesaj \"{messages[messageIndex]}\": {messageStart:F2} - {messageEnd:F2} saniye");
-
-        globalTime = messageEnd + 1f; // 1 saniyelik bekleme de ekleniyor
-
         fullText += currentLine + "\n\n";
         messageIndex++;
 
-        yield return new WaitForSeconds(1f); // yazýdan sonra bekleme süresi
+        yield return new WaitForSeconds(1f);
 
         if (messageIndex < messages.Length)
         {
@@ -109,9 +92,6 @@ public class IntroManager : MonoBehaviour
         }
     }
 
-
-
-
     IEnumerator ShowControlsPanel()
     {
         yield return StartCoroutine(FadeOutText());         // Yazýyý kaybet
@@ -119,6 +99,7 @@ public class IntroManager : MonoBehaviour
 
         // Panelin CanvasGroup'u görünür yap (opacity 1)
         yield return StartCoroutine(FadeCanvasGroup(controlsPanelGroup, 0f, 1f, 0.5f));
+
         // Her bir text'i yavaþça göster (ardýþýk)
         for (int i = 0; i < controlsTextsGroups.Length; i++)
         {
