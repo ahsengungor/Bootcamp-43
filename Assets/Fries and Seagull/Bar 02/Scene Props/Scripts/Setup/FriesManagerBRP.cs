@@ -6,10 +6,12 @@ using UnityEditor;
 # endif
 using UnityEngine;
 using UnityEngine.Rendering;
-using UnityEngine.Rendering.PostProcessing;
 
 namespace Seagull.Bar_02.SceneProps.Setup {
-    public class FriesManagerBRP : MonoBehaviour {
+    public class FriesManagerBRP : MonoBehaviour
+    {
+        public int postProcessLayer = -1;
+        /*
 
         public static void setupLight() {
 # if UNITY_EDITOR
@@ -64,7 +66,7 @@ namespace Seagull.Bar_02.SceneProps.Setup {
         public List<Camera> gameCameras = new();
         
         [Tooltip("Which layer should Post Processor Volume use")]
-        public int postProcessLayer = -1;
+        
         
 # if UNITY_EDITOR
         [AButton("Initialize")] [IgnoreInInspector]
@@ -143,7 +145,7 @@ namespace Seagull.Bar_02.SceneProps.Setup {
                 b.threshold.overrideState = true;
             }
         }
-# endif
+# endif*/
     }
     
     #if UNITY_EDITOR

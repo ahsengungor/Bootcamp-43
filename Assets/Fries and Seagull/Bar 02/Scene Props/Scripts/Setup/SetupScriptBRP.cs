@@ -110,12 +110,12 @@ namespace Seagull.Bar_02.SceneProps.Setup {
 
         [MenuItem("Tools/Fries/Bar 02/Setup for BRP Lighting Example (Optional)", priority = 51)]
         public static void light() {
-            FriesManagerBRP.setupLight();
+           // FriesManagerBRP.setupLight();
         }
         
         [MenuItem("Tools/Fries/Bar 02/Revert BRP Lighting Example Setting (Optional)", priority = 52)]
         public static void delight() {
-            FriesManagerBRP.unsetLight();
+          //  FriesManagerBRP.unsetLight();
         }
     }
 }
