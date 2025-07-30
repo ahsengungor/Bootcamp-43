@@ -7,10 +7,10 @@
 <img src="images/image-2.png" width="100">
 
 ## Team Members
-| ![Dev Gif or Image](images/pp1.png) | ![Dev Gif or Image](images/pp2.png) | ![Dev Gif or Image](images/pp3.png) | ![Dev Gif or Image](images/pp4.png) | ![Dev Gif or Image](images/pp5.png) |
+| ![Dev Gif or Image](images/pp1.png) | ![Dev Gif or Image](images/pp3.png) | ![Dev Gif or Image](images/pp2.png) | ![Dev Gif or Image](images/pp4.png) | ![Dev Gif or Image](images/pp5.png) |
    |:---------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
-   | Ahsen Büşra Nur Güngör                       | Kaan Avdan                       | Ece Koçak                        | Mustafa Toprak Sezgin                       | Eşref Bakar                       |
-   | Scrum Master                       | Product Owner                       | Developer                        | Developer                       | Developer                        |
+   | Ahsen Büşra Nur Güngör                       | Ece Koçak                       | Kaan Avdan                        | Mustafa Toprak Sezgin                       | Eşref Bakar                       |
+   | Scrum Master                       | Developer                       | Product Owner                       | Developer                       | Developer                        |
 
 
 
