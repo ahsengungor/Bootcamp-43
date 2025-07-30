@@ -222,3 +222,91 @@ Sprint Review participants: Ahsen Büşra Nur Güngör, Kaan Avdan, Ece Koçak, 
 - The score achieved at the end of Sprint 2 was 10/10.
 - The team is expected to improve overall performance in the next sprint.
 - It was agreed to increase communication frequency compared to the previous sprint to ensure better coordination.
+
+
+---
+# **SPRINT 3**
+
+   | ![Sprint 3](images/image-27.png) |
+   |:---------------------------------:|
+
+-Score completion logic: The number of points to be completed for the second Sprint was determined as 10, and the target score was reached by obtaining 10 points. Scoring was done according to the workload of the tasks.
+
+### **Sprint 3 Notes**
+-.<br>
+
+  **To Do List:**
+- 
+   
+
+### **Sprint 3 Board**
+   | ![Sprint Board 3](images/image-28.png) |
+   |:---------------------------------:|
+   | Sprint 3 board                         |
+
+### **Daily Scrum**
+
+* Daily scrum was held via WhatsApp and Google Meet. Google Meet meeting notes can be found on Trello as cards in the "Meeting Logs" list.
+
+   | ![WhatsApp](images/image-29.png) |
+   |:---------------------------------:|
+   | Initially, communication was established via WhatsApp, and WhatsApp was preferred for daily communication                         |
+
+   | ![Google Meet](images/image-30.png) |
+   |:---------------------------------:|
+   | Google Meet was preferred for planning and collaborative work.                         |
+
+   | ![Trello](images/image-31.png) |
+   |:---------------------------------:|
+   | Recordings of Google Meet meetings can be found on Trello as cards in the "Meeting Logs" list                         |
+
+ 
+### **Development Progress**
+* 
+
+   | ![Dev Gif or Image](images/image-32.gif) | ![Dev Gif or Image](images/image-33.gif) |
+   |:---------------------------------:|:-----------------------------------:|
+   |                         |                      |
+
+* 
+
+   | ![Dev Gif or Image](images/image-34.gif) | ![Dev Gif or Image](images/image-35.gif) |
+   |:---------------------------------:|:-----------------------------------:|
+   |                        |                      |
+
+* 
+
+   | ![Dev Gif or Image](images/image-36.gif) | ![Dev Gif or Image](images/image-37.gif) |
+   |:---------------------------------:|:-----------------------------------:|
+   |                        |                      |
+
+* 
+
+   | ![Dev Gif or Image](images/image-38.png) |
+   |:---------------------------------:|
+   |                      |
+
+* 
+
+   | ![Dev Gif or Image](images/image-39.png) |
+   |:---------------------------------:|
+   |                     |
+
+* 
+
+   | ![Dev Gif or Image](images/image-40.png) |
+   |:---------------------------------:|
+   |                       |
+
+
+
+ ### **Sprint Review**
+- 
+  
+Sprint Review participants: Ahsen Büşra Nur Güngör, Kaan Avdan, Ece Koçak, Mustafa Toprak Sezgin, Eşref Bakar
+
+
+
+
+ ### **Sprint Retrospective**
+- 
