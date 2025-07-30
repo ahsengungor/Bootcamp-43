@@ -16,9 +16,9 @@
 
 - ***Kaan Avdan*** - Product Owner
 - ***Ahsen Büşra Nur Güngör*** - Scrum Master
-- ***Eşref Bakar*** - Developer
-- ***Mustafa Toprak Sezgin*** - Developer
 - ***Ece Koçak*** - Developer
+- ***Mustafa Toprak Sezgin*** - Developer
+- ***Eşref Bakar*** - Developer
 
 
 
