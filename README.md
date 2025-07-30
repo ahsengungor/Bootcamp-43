@@ -7,6 +7,13 @@
 <img src="images/image-2.png" width="100">
 
 ## Team Members
+| ![Dev Gif or Image](images/pp1.png) | ![Dev Gif or Image](images/pp2.png) | ![Dev Gif or Image](images/pp3.png) | ![Dev Gif or Image](images/pp4.png) | ![Dev Gif or Image](images/pp5.png) |
+   |:---------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
+   | Ahsen Büşra Nur Güngör                       | Kaan Avdan                       | Ece Koçak                        | Mustafa Toprak Sezgin                       | Eşref Bakar                       |
+   | Scrum Master                       | Product Owner                       | Developer                        | Developer                       | Developer                        |
+
+
+
 - ***Kaan Avdan*** - Product Owner
 - ***Ahsen Büşra Nur Güngör*** - Scrum Master
 - ***Eşref Bakar*** - 3D/2D Artist
