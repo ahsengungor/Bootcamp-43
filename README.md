@@ -16,7 +16,7 @@
 
 - ***Kaan Avdan*** - Product Owner
 - ***Ahsen Büşra Nur Güngör*** - Scrum Master
-- ***Eşref Bakar*** - 3D/2D Artist
+- ***Eşref Bakar*** - Developer
 - ***Mustafa Toprak Sezgin*** - Developer
 - ***Ece Koçak*** - Developer
 
