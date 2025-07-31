@@ -187,17 +187,17 @@ Sprint Review participants: Ahsen Büşra Nur Güngör, Kaan Avdan, Ece Koçak, 
 
  
 ### **Development Progress**
-* The main character's enemy detection and interaction system has been developed. Prototypes for the extramental stage have been prepared.
+* The main character's enemy detection and interaction system has been developed. Prototypes for the Out of Mind stage have been prepared.
 
    | ![Dev Gif or Image](images/image-20.gif) | ![Dev Gif or Image](images/image-21.gif) |
    |:---------------------------------:|:-----------------------------------:|
-   | Target detection system                         | Extramental stage prototype                      |
+   | Target detection system                         | Out of Mind stage prototype                      |
 
-* The animation and interaction system for the intramental stage has been coded. The intramental stage level design has been completed.
+* The animation and interaction system for the Inside the Mind stage has been coded. Level design for the Inside the Mind stage has been completed.
 
    | ![Dev Gif or Image](images/image-22.gif) | ![Dev Gif or Image](images/image-23.gif) |
    |:---------------------------------:|:-----------------------------------:|
-   | Intramental animation and interaction testing                         | Intramental level design                          |
+   | Inside the Mind animation and interaction testing                         | Inside the Mind level design                          |
 
 * The fourth mini game has been completed.
 
