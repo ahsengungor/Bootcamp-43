@@ -280,7 +280,7 @@ Sprint Review participants: Ahsen Büşra Nur Güngör, Kaan Avdan, Ece Koçak, 
    |:---------------------------------:|
    | NPC movements                         |
 
-* Chapter 1: Out of Mind scene lighting manipulation mechanic was implemented, and main character lighting controls were added
+* Chapter 1: Out of Mind scene lighting manipulation mechanic was implemented and main character lighting controls were added.
 
    | ![Dev Gif or Image](images/image-33.gif) |
    |:---------------------------------:|
