@@ -276,37 +276,52 @@ Sprint Review participants: Ahsen Büşra Nur Güngör, Kaan Avdan, Ece Koçak, 
    | ![Dev Gif or Image](images/image-32.gif) |
    |:---------------------------------:|
    |                         |
+
+  * 
+
+   | ![Dev Gif or Image](images/image-33.gif) |
+   |:---------------------------------:|
+   |                         |
+
+  * 
+
+   | ![Dev Gif or Image](images/image-34.gif) |
+   |:---------------------------------:|
+   |                         |
+
+  * 
+
+   | ![Dev Gif or Image](images/image-35.gif) |
+   |:---------------------------------:|
+   |                         |
+
+  * 
+
+   | ![Dev Gif or Image](images/image-36.gif) |
+   |:---------------------------------:|
+   |                         |
   
-*
-  | ![Dev Gif or Image](images/image-33.gif) |
-   |:---------------------------------:|
-   |                         |
+
 
 * 
 
-| ![Dev Gif or Image](images/image-34.gif) |
-   |:---------------------------------:|
-   |                         |
-
-* 
-
-   | ![Dev Gif or Image](images/image-36.gif) | ![Dev Gif or Image](images/image-37.gif) |
-   |:---------------------------------:|:-----------------------------------:|
-   |                        |                      |
-
-* 
-
-   | ![Dev Gif or Image](images/image-38.png) |
+   | ![Dev Gif or Image](images/image-37.png) |
    |:---------------------------------:|
    |                      |
 
 * 
 
-   | ![Dev Gif or Image](images/image-39.png) |
+   | ![Dev Gif or Image](images/image-38.png) |
    |:---------------------------------:|
    |                     |
 
 * 
+
+   | ![Dev Gif or Image](images/image-39.png) |
+   |:---------------------------------:|
+   |                       |
+
+  * 
 
    | ![Dev Gif or Image](images/image-40.png) |
    |:---------------------------------:|
