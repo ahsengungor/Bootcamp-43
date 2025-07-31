@@ -4,7 +4,9 @@
 
 
 ## Team Name
-<img src="images/image-2.png" width="100">
+<p align="center">
+  <img src="images/image-2.png" width="600">
+</p>
 
 ## Team Members
 | ![Dev Gif or Image](images/pp1.png) | ![Dev Gif or Image](images/pp3.png) | ![Dev Gif or Image](images/pp2.png) | ![Dev Gif or Image](images/pp4.png) | ![Dev Gif or Image](images/pp5.png) |
@@ -237,7 +239,7 @@ Sprint Review participants: Ahsen Büşra Nur Güngör, Kaan Avdan, Ece Koçak, 
    | ![Sprint 3](images/image-27.png) |
    |:---------------------------------:|
 
--Score completion logic: The number of points to be completed for the second Sprint was determined as 10, and the target score was reached by obtaining 10 points. Scoring was done according to the workload of the tasks.
+-Score completion logic: The number of points to be completed for the third Sprint was determined as 10, and the target score was reached by obtaining 10 points. Scoring was done according to the workload of the tasks.
 
 ### **Sprint 3 Notes**
 -.<br>
@@ -271,35 +273,55 @@ Sprint Review participants: Ahsen Büşra Nur Güngör, Kaan Avdan, Ece Koçak, 
 ### **Development Progress**
 * 
 
-   | ![Dev Gif or Image](images/image-32.gif) | ![Dev Gif or Image](images/image-33.gif) |
-   |:---------------------------------:|:-----------------------------------:|
-   |                         |                      |
+   | ![Dev Gif or Image](images/image-32.gif) |
+   |:---------------------------------:|
+   |                         |
+
+  * 
+
+   | ![Dev Gif or Image](images/image-33.gif) |
+   |:---------------------------------:|
+   |                         |
+
+  * 
+
+   | ![Dev Gif or Image](images/image-34.gif) |
+   |:---------------------------------:|
+   |                         |
+
+  * 
+
+   | ![Dev Gif or Image](images/image-35.gif) |
+   |:---------------------------------:|
+   |                         |
+
+  * 
+
+   | ![Dev Gif or Image](images/image-36.gif) |
+   |:---------------------------------:|
+   |                         |
+  
+
 
 * 
 
-   | ![Dev Gif or Image](images/image-34.gif) | ![Dev Gif or Image](images/image-35.gif) |
-   |:---------------------------------:|:-----------------------------------:|
-   |                        |                      |
-
-* 
-
-   | ![Dev Gif or Image](images/image-36.gif) | ![Dev Gif or Image](images/image-37.gif) |
-   |:---------------------------------:|:-----------------------------------:|
-   |                        |                      |
-
-* 
-
-   | ![Dev Gif or Image](images/image-38.png) |
+   | ![Dev Gif or Image](images/image-37.png) |
    |:---------------------------------:|
    |                      |
 
 * 
 
-   | ![Dev Gif or Image](images/image-39.png) |
+   | ![Dev Gif or Image](images/image-38.png) |
    |:---------------------------------:|
    |                     |
 
 * 
+
+   | ![Dev Gif or Image](images/image-39.png) |
+   |:---------------------------------:|
+   |                       |
+
+  * 
 
    | ![Dev Gif or Image](images/image-40.png) |
    |:---------------------------------:|
