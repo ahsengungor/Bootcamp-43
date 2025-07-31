@@ -274,11 +274,11 @@ Sprint Review participants: Ahsen Büşra Nur Güngör, Kaan Avdan, Ece Koçak, 
 
  
 ### **Development Progress**
-* 
+* NPC movement scenarios were created. Animations appropriate to the level and story design were added.
 
    | ![Dev Gif or Image](images/image-32.gif) |
    |:---------------------------------:|
-   |                         |
+   | NPC movements                         |
 
   * 
 
