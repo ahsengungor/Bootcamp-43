@@ -36,6 +36,9 @@ NeuroDive
 ## Game Description
 NeuroDive is an isometric puzzle/strategy game that blends science fiction and psychological thriller elements. The player infiltrates the minds of targeted individuals to extract valuable information. Throughout the game, the player explores various environments to gather clues about the target, manipulates the surroundings to create optimal conditions for a neural breach, and ultimately enters a surreal and hostile mental landscape to retrieve the data and complete the mission.
 
+## Game Story
+Criminal networks have gone dark, leaving no trace behind. The only way to reach their leaders is by secretly accessing the minds of their closest allies. We are the NeuroDive Agency. Using our advanced device, NeuroLance, we can enter a person’s mind without physical contact—but only when a rare mental state occurs: the activation of Zeta Waves. These waves appear under extreme stress, lowering mental defenses and opening a brief window into the subconscious. That’s when we dive in—extracting secrets to stop a global threat.
+
 ## Game Features
 - 3D
 - Singleplayer
