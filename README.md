@@ -239,7 +239,7 @@ Sprint Review participants: Ahsen Büşra Nur Güngör, Kaan Avdan, Ece Koçak, 
    | ![Sprint 3](images/image-27.png) |
    |:---------------------------------:|
 
--Score completion logic: The backlog score that must be completed throughout the project is expected to be 30. Scoring was done according to the workload of the tasks.The number of points to be completed for the third and final Sprint was determined as 10, and the target score of 30 was reached by obtaining full points.
+-Score Completion Logic: The total backlog score to be completed throughout the project was set at 30. Scoring was based on the workload of the tasks. For the third and final Sprint, the number of points to be completed was determined as 10. The target score of 30 was achieved by earning the full score.
 
 ### **Sprint 3 Notes**
 -.<br>
