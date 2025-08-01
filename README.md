@@ -298,11 +298,11 @@ Sprint Review participants: Ahsen Büşra Nur Güngör, Kaan Avdan, Ece Koçak, 
    |:---------------------------------:|
    | The Inside the Mind chess puzzle                         |
 
-* 
+* Improved the target’s mind scene in Chapter 2 by connecting mini-games to objects within the mind.
 
    | ![Dev Gif or Image](images/image-35.gif) |
    |:---------------------------------:|
-   |                         |
+   | The Inside the Mind level design in chapter 2                        |
 
 * 
 
