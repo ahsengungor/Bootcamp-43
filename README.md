@@ -248,7 +248,13 @@ Sprint Review participants: Ahsen Büşra Nur Güngör, Kaan Avdan, Ece Koçak, 
 -At the beginning of the third sprint, the team discussed the remaining tasks. Two team members, Büşra and Kaan, made plans to complete the game as a final product.<br>
 
   **To Do List:**
-- 
+- ZENTRAX LABS Logo will be prepared.
+- Loading Screen will be prepared
+- Level Designs will be improved.
+- A stopwatch system and in-game UI panels will be added
+- In-game scene transition animation will be prepared.
+- Music and Sound for the game and gameplay video will be created.
+- The game will be tested to check for errors.
    
 
 ### **Sprint 3 Board**
