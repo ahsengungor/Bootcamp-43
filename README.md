@@ -286,11 +286,11 @@ Sprint Review participants: Ahsen Büşra Nur Güngör, Kaan Avdan, Ece Koçak, 
    |:---------------------------------:|
    | Lighting manipulation                          |
 
-* 
+* The Inside the Mind level design and chess puzzle of the target in Chapter 1 have been created. 
 
    | ![Dev Gif or Image](images/image-34.gif) |
    |:---------------------------------:|
-   |                         |
+   | The Inside the Mind chess puzzle                         |
 
 * 
 
