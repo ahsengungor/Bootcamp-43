@@ -305,17 +305,15 @@ Sprint Review participants: Ahsen Büşra Nur Güngör, Kaan Avdan, Ece Koçak, 
    | The Inside the Mind level design in chapter 2                        |
  
 
-* 
-
    | ![Dev Gif or Image](images/image-36.png) |
    |:---------------------------------:|
-   |                      |
+   | Chess board scene design                      |
 
-* 
+  
 
    | ![Dev Gif or Image](images/image-37.png) |
    |:---------------------------------:|
-   |                     |
+   | Chess board scene design                    |
 
 * 
 
