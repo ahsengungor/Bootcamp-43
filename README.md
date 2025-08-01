@@ -303,27 +303,27 @@ Sprint Review participants: Ahsen Büşra Nur Güngör, Kaan Avdan, Ece Koçak, 
    | ![Dev Gif or Image](images/image-35.gif) |
    |:---------------------------------:|
    | The Inside the Mind level design in chapter 2                        |
+ 
 
 * 
 
-   | ![Dev Gif or Image](images/image-36.gif) |
-   |:---------------------------------:|
-   |                         |
-  
-
-* 
-
-   | ![Dev Gif or Image](images/image-37.png) |
+   | ![Dev Gif or Image](images/image-36.png) |
    |:---------------------------------:|
    |                      |
 
 * 
 
-   | ![Dev Gif or Image](images/image-38.png) |
+   | ![Dev Gif or Image](images/image-37.png) |
    |:---------------------------------:|
    |                     |
 
 * 
+
+   | ![Dev Gif or Image](images/image-38.png) |
+   |:---------------------------------:|
+   |                       |
+
+  * 
 
    | ![Dev Gif or Image](images/image-39.png) |
    |:---------------------------------:|
