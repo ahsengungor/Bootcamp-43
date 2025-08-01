@@ -245,7 +245,7 @@ Sprint Review participants: Ahsen Büşra Nur Güngör, Kaan Avdan, Ece Koçak, 
 -Score Completion Logic: The total backlog score to be completed throughout the project was set at 30. Scoring was based on the workload of the tasks. For the third and final Sprint, the number of points to be completed was determined as 10. The target score of 30 was achieved by earning the full score.
 
 ### **Sprint 3 Notes**
--At the beginning of the third sprint, the team discussed the remaining tasks. Two team members, Büşra and Kaan, made plans to finalize the game as a final product.<br>
+-At the beginning of the third sprint, the team discussed the remaining tasks. Two team members, Büşra and Kaan, made plans to complete the game as a final product.<br>
 
   **To Do List:**
 - 
