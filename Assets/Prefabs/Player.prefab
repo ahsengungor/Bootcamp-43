@@ -861,6 +861,37 @@ Transform:
   - {fileID: 4279649551628586875}
   m_Father: {fileID: 5227077940042156589}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3923248162739307202
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2594347850873201931}
+  m_Layer: 3
+  m_Name: CamraLookAt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2594347850873201931
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3923248162739307202}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 2.239, z: 0.27}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8883220175406204571}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &4088200286270277282
 GameObject:
   m_ObjectHideFlags: 0
@@ -2595,7 +2626,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8923013079070583396}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: 0.67035437, z: -0, w: 0.7420412}
+  m_LocalRotation: {x: 0, y: 0.67035544, z: 0, w: 0.74204016}
   m_LocalPosition: {x: -15.06, y: 1.53, z: 4.93}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -2606,6 +2637,7 @@ Transform:
   - {fileID: 8890513328313795891}
   - {fileID: 1236023982262574505}
   - {fileID: 2289604095431148330}
+  - {fileID: 2594347850873201931}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 84.189, z: 0}
 --- !u!95 &8388805919236946922
@@ -2687,7 +2719,7 @@ MonoBehaviour:
   clickVfxPrefab: {fileID: 447409866740539227, guid: da34d66431c8cd04aa98411a543a83bf, type: 3}
   clickableLayers:
     serializedVersion: 2
-    m_Bits: 64
+    m_Bits: 631
 --- !u!195 &3089212323495419152
 NavMeshAgent:
   m_ObjectHideFlags: 0

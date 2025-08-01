@@ -33,8 +33,6 @@ public class MouseBasedMovement : MonoBehaviour
     {
         _agent = GetComponent<NavMeshAgent>();
 
-        clickableLayers = ~(1 << LayerMask.NameToLayer("Player"));
-
     }
 
     void Update()

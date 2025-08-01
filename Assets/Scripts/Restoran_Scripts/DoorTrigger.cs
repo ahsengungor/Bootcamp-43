@@ -66,7 +66,7 @@ public class DoorTrigger : MonoBehaviour
     IEnumerator RotateObjects()
     {
         float elapsed = 0f;
-
+        Debug.Log("TESTETEST");
         List<Quaternion> startRotations = new List<Quaternion>();
         List<Quaternion> targetRotations = new List<Quaternion>();
 
