@@ -3,8 +3,8 @@ using UnityEngine;
 public class ConditionManager : MonoBehaviour
 {
     [Header("Atanacak Objeler")]
-    public GameObject obj1; // 1 numaralý obje
-    public GameObject obj2; // 2 numaralý obje (Collider içeren)
+    public GameObject obj1;
+    public GameObject obj2; 
 
     [Header("Kontrol Edilecek Tag")]
     public string conditionTag;
@@ -17,7 +17,7 @@ public class ConditionManager : MonoBehaviour
     {
         if (obj2 == null)
         {
-            Debug.LogError("Obj2 atanmadý!");
+            Debug.LogError("Obj2 atanmadÄ±!");
             enabled = false;
             return;
         }
@@ -25,14 +25,14 @@ public class ConditionManager : MonoBehaviour
         obj2Collider = obj2.GetComponent<Collider>();
         if (obj2Collider == null)
         {
-            Debug.LogError("Obj2 üzerinde Collider yok!");
+            Debug.LogError("Obj2 Ã¼zerinde Collider yok!");
             enabled = false;
             return;
         }
 
         if (obj1 == null)
         {
-            Debug.LogWarning("Obj1 atanmadý, obj1 aktiflik deðiþikliði olmayacak.");
+            Debug.LogWarning("Obj1 atanmadÄ±, obj1 aktiflik deÄŸiÅŸikliÄŸi olmayacak.");
         }
     }
 

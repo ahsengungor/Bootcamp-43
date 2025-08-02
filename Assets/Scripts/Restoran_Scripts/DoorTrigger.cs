@@ -13,13 +13,18 @@ public class DoorTrigger : MonoBehaviour
         [HideInInspector] public Quaternion originalRotation;
     }
 
-    [Header("Döndürülecek Objeler ve Açýlar")]
+    [Header("DÃ¶ndÃ¼rÃ¼lecek Objeler")]
     public List<RotatingObject> rotatingObjects = new List<RotatingObject>();
 
-    [Header("Animasyon Süresi")]
+    [Header("Animasyon SÃ¼resi")]
     public float rotationDuration = 1f;
 
+    [Header("KapÄ±yÄ± Tetikleyecek Tag'ler")]
+    public List<string> allowedTags = new List<string>();
+
     private Coroutine rotationCoroutine;
+    private bool isOpen = false;
+    private int triggerCount = 0;
 
     private void Start()
     {
@@ -36,12 +41,17 @@ public class DoorTrigger : MonoBehaviour
     {
         if (IsAllowedTag(other.tag))
         {
-            Debug.Log($"{other.tag} trigger'a girdi.");
+            triggerCount++;
+            // Debug.Log($"{other.tag} trigger'a girdi. Trigger count: {triggerCount}");
 
-            if (rotationCoroutine != null)
-                StopCoroutine(rotationCoroutine);
+            if (!isOpen)
+            {
+                if (rotationCoroutine != null)
+                    StopCoroutine(rotationCoroutine);
 
-            rotationCoroutine = StartCoroutine(RotateObjects());
+                rotationCoroutine = StartCoroutine(RotateObjects());
+                isOpen = true;
+            }
         }
     }
 
@@ -49,24 +59,29 @@ public class DoorTrigger : MonoBehaviour
     {
         if (IsAllowedTag(other.tag))
         {
-            Debug.Log($"{other.tag} trigger'dan çýktý.");
+            triggerCount = Mathf.Max(0, triggerCount - 1);
+            // Debug.Log($"{other.tag} trigger'dan Ã§Ä±ktÄ±. Trigger count: {triggerCount}");
 
-            if (rotationCoroutine != null)
-                StopCoroutine(rotationCoroutine);
+            if (isOpen && triggerCount == 0)
+            {
+                if (rotationCoroutine != null)
+                    StopCoroutine(rotationCoroutine);
 
-            rotationCoroutine = StartCoroutine(RotateObjectsBack());
+                rotationCoroutine = StartCoroutine(RotateObjectsBack());
+                isOpen = false;
+            }
         }
     }
 
     private bool IsAllowedTag(string tag)
     {
-        return tag == "Player" || tag == "Chief";
+        return allowedTags.Contains(tag);
     }
 
     IEnumerator RotateObjects()
     {
         float elapsed = 0f;
-        Debug.Log("TESTETEST");
+
         List<Quaternion> startRotations = new List<Quaternion>();
         List<Quaternion> targetRotations = new List<Quaternion>();
 
@@ -75,7 +90,7 @@ public class DoorTrigger : MonoBehaviour
             if (obj.target != null)
             {
                 Quaternion startRot = obj.target.localRotation;
-                Quaternion targetRot = startRot * Quaternion.Euler(0, 0, obj.zRotation);
+                Quaternion targetRot = obj.originalRotation * Quaternion.Euler(0, 0, obj.zRotation);
                 startRotations.Add(startRot);
                 targetRotations.Add(targetRot);
             }

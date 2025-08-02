@@ -1,5 +1,3 @@
-using System;
-using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -7,14 +5,20 @@ public class PanelController : MonoBehaviour
 {
     public GameObject panel;
     public GameObject playButton;
-    
 
-    
-    public void LoadGameScene()
+
+    public void LoadHowToPlay()
     {
-        SceneManager.LoadScene("xxx");
+        SceneManager.LoadScene("");
     }
+    
+    public void LoadStartGameScene()
+    {
+        SceneManager.LoadScene("Restoran");
+    }
+    
 
+    
     // Paneli açar
     public void OpenPanel()
     {

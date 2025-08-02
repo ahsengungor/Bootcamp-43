@@ -6,8 +6,11 @@ public class LightManager : MonoBehaviour
     [Header("Spotlight Objeleri")]
     public List<GameObject> spotlights;
 
-    [Header("MaterialChanger Referansý")]
+    [Header("MaterialChanger ReferansÄ±")]
     public MaterialChanger materialChanger;
+    
+    [Header("Enemy NPC")]
+    public GameObject enemyNPC;
 
     [Header("Test Modu")]
     public bool testMode = false;
@@ -40,7 +43,7 @@ public class LightManager : MonoBehaviour
         foreach (GameObject spotlight in spotlights)
         {
             if (spotlight != null)
-                spotlight.SetActive(!spotlight.activeSelf);  // aktifliði tersine çevir
+                spotlight.SetActive(!spotlight.activeSelf);
         }
 
         if (materialChanger != null)
@@ -49,8 +52,26 @@ public class LightManager : MonoBehaviour
         }
         else
         {
-            Debug.LogWarning("MaterialChanger referansý atanmadý!");
+            Debug.LogWarning("MaterialChanger referansÄ± atanmadÄ±!");
         }
+        
+        if (enemyNPC != null)
+        {
+            var detectionLight = enemyNPC.GetComponent<EnemyDetectionLight>();
+            if (detectionLight != null)
+            {
+                detectionLight.enabled = true;
+            }
+            else
+            {
+                Debug.LogWarning("EnemyDetectionLight componenti enemyNPC Ã¼zerinde bulunamadÄ±!");
+            }
+        }
+        else
+        {
+            Debug.LogWarning("Enemy NPC referansÄ± atanmadÄ±!");
+        }
+        
     }
 
     public void EnableSpotlightsAndRestoreMaterials()
@@ -58,7 +79,7 @@ public class LightManager : MonoBehaviour
         foreach (GameObject spotlight in spotlights)
         {
             if (spotlight != null)
-                spotlight.SetActive(!spotlight.activeSelf);  // aktifliði tersine çevir
+                spotlight.SetActive(!spotlight.activeSelf); 
         }
 
         if (materialChanger != null)
@@ -67,7 +88,7 @@ public class LightManager : MonoBehaviour
         }
         else
         {
-            Debug.LogWarning("MaterialChanger referansý atanmadý!");
+            Debug.LogWarning("MaterialChanger referansÄ± atanmadÄ±!");
         }
     }
 
