@@ -15,6 +15,7 @@ public class PhotoStackViewer : MonoBehaviour
     public RectTransform photoContainer;
     public Image photoTemplate;
     public Button nextButton;
+    public GameObject winPanel;
     
     [Header("Next Button Sprite Değişimi")]
     public Sprite normalNextSprite;
@@ -159,6 +160,7 @@ public class PhotoStackViewer : MonoBehaviour
 
     public void LoadNextLevel()
     {
+        winPanel.SetActive(false);
         Time.timeScale = 1f;
         SceneManager.LoadScene("Cinema");
     }
