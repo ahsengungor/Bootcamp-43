@@ -1,6 +1,8 @@
 using UnityEngine;
 using TMPro;
 using System.Collections;
+using System;
+using Unity.VisualScripting;
 
 public class CountdownManager : MonoBehaviour
 {
@@ -65,6 +67,20 @@ public class CountdownManager : MonoBehaviour
             timeoutPanel.SetActive(false);
 
         StartCoroutine(StartCountdownWithDelay());
+    }
+
+    private void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.Tab))
+            TimeScaler();
+    }
+
+    private void TimeScaler()
+    {
+        if (Time.timeScale == 1f) { Time.timeScale = 2f; }
+        else if (Time.timeScale == 2f) { Time.timeScale = 1f; }
+
+        Debug.Log("Time Scale : " +  Time.timeScale);
     }
 
     IEnumerator StartCountdownWithDelay()

@@ -12,11 +12,11 @@ EditorBuildSettings:
     path: Assets/Scenes/Main Menu Scenes/HowToPlayScene.unity
     guid: 0192aeb5514dfaa419564f88c81b9a09
   - enabled: 1
-    path: Assets/Scenes/Test Scenes/Player_Movement.unity
-    guid: a21be6a736110ca41a27ec55c1602367
-  - enabled: 1
     path: Assets/Scenes/Restoran.unity
     guid: c85bbb5035530f94dbb99a6ad5b62e93
+  - enabled: 1
+    path: Assets/Scenes/Test Scenes/Player_Movement.unity
+    guid: a21be6a736110ca41a27ec55c1602367
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
