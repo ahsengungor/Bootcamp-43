@@ -315,7 +315,7 @@ Sprint Review participants: Ahsen Büşra Nur Güngör, Kaan Avdan, Ece Koçak, 
    |:---------------------------------:|
    | The Inside the Mind level design in chapter 2                        |
 
-  * Our Chapter 1 intro scene and interaction system info panel have been designed.
+* Our Chapter 1 intro scene and interaction system info panel have been designed.
 
    | ![Dev Gif or Image](images/image-38.gif) |
    |:---------------------------------:|
