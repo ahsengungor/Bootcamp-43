@@ -9,7 +9,7 @@
 </p>
 
 ## Team Members
-| ![Dev Gif or Image](images/p1.png) | ![Dev Gif or Image](images/p2.png) | ![Dev Gif or Image](images/p3.png) | ![Dev Gif or Image](images/p4.png) | ![Dev Gif or Image](images/p5.png) |
+| ![Dev Gif or Image](images/P1.png) | ![Dev Gif or Image](images/p2.png) | ![Dev Gif or Image](images/p3.png) | ![Dev Gif or Image](images/p4.png) | ![Dev Gif or Image](images/p5.png) |
 |:---------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 | Ahsen Büşra Nur Güngör                       | Ece Koçak                       | Kaan Avdan                        | Mustafa Toprak Sezgin                       | Eşref Bakar                       |
 | Scrum Master                       | Developer                       | Product Owner                       | Developer                       | Developer                        |
