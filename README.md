@@ -321,6 +321,12 @@ Sprint Review participants: Ahsen Büşra Nur Güngör, Kaan Avdan, Ece Koçak, 
    |:---------------------------------:|
    | Interaction system info panel                        |
 
+  * The main menu design and interface have been updated.
+
+   | ![Dev Gif or Image](images/image-39.gif) |
+   |:---------------------------------:|
+   | New Manin Menu                       |
+
 
   
 
