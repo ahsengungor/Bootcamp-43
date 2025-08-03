@@ -16,14 +16,6 @@
 
 
 
-- ***Kaan Avdan*** - Product Owner
-- ***Ahsen Büşra Nur Güngör*** - Scrum Master
-- ***Ece Koçak*** - Developer
-- ***Mustafa Toprak Sezgin*** - Developer
-- ***Eşref Bakar*** - Developer
-
-
-
 ## Game Name
 NeuroDive
 
