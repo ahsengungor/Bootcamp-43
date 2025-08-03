@@ -346,5 +346,5 @@ Sprint Review participants: Ahsen Büşra Nur Güngör, Kaan Avdan, Ece Koçak, 
 - Solid groundwork from earlier sprints contributed to a smoother development process.
 - Time management was less efficient than expected; last-minute adjustments were required to meet the sprint goals.
 - Some visual design decisions could have benefited from more iteration and feedback rounds.
-- The free [Assets] (https://drive.google.com/file/d/1gZh-zUxGMBH_gdhk4ZkrKyXBcSwNHqTb/view?usp=drive_link) we used.
+- The free [Assets](https://drive.google.com/file/d/1gZh-zUxGMBH_gdhk4ZkrKyXBcSwNHqTb/view?usp=drive_link) we used.
   
