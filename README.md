@@ -322,6 +322,8 @@ Sprint Review participants: Ahsen Büşra Nur Güngör, Kaan Avdan, Ece Koçak, 
    | Interaction system info panel                        |
 
 
+  
+
 
 
 
