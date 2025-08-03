@@ -328,12 +328,24 @@ Sprint Review participants: Ahsen Büşra Nur Güngör, Kaan Avdan, Ece Koçak, 
 
 
  ### **Sprint Review**
-- 
+ 
+- During the third sprint, the team focused on finalizing the project and delivering a complete, playable version of the game. Key accomplishments include:
+- The main menu scene was successfully designed, offering a clean and intuitive UI.
+- The game's introductory scene, including the information panel, was created in a visual novel style to introduce the narrative universe.
+- Interaction systems were improved to allow meaningful player-object interactions.
+- All previously developed chapters were connected to form a complete game flow.
+- The game was finalized and delivered as a finished product.
+- A total of 10 story points were completed during this sprint, reaching the overall target of 30 points across all sprints.
+- At the end of this sprint, the game reached a presentable and functional final state.
+  
   
 Sprint Review participants: Ahsen Büşra Nur Güngör, Kaan Avdan, Ece Koçak, Mustafa Toprak Sezgin, Eşref Bakar
 
 
 
-
  ### **Sprint Retrospective**
-- 
+ 
+- Solid groundwork from earlier sprints contributed to a smoother development process.
+- Time management was less efficient than expected; last-minute adjustments were required to meet the sprint goals.
+- Some visual design decisions could have benefited from more iteration and feedback rounds.
+  
